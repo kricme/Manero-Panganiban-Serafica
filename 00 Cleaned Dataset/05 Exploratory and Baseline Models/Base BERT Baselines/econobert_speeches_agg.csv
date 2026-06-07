@@ -1,0 +1,674 @@
+speech_id,date,title,tone_mean,tone_median,pos_share,neg_share,neu_share,n_sent,label_majority
+0,2020-03-03,Staying on Track in 2020: Sustaining Positive PH Growth Inflation Dynamics,-0.5343008487219614,-0.5263525247573853,0.0,1.0,0.0,96.0,negative
+1,2020-02-28,Finding Opportunities in a Borderless World,-0.5193100581346861,-0.5109032988548279,0.0,1.0,0.0,125.0,negative
+2,2020-02-27,Gearing up for the Road Ahead: With Foresight and Purpose,-0.5391402497086147,-0.5343711376190186,0.0,1.0,0.0,128.0,negative
+3,2020-02-06,A Strong Nation Amid A Slowing and Volatile World,-0.5399339657617589,-0.5283548831939697,0.0,1.0,0.0,87.0,negative
+4,2020-01-31,Welcome Dinner Remarks,-0.505610398297171,-0.5071258544921875,0.0,1.0,0.0,19.0,negative
+5,2020-01-30,Accounting as the Language of Business: Some Perspectives from the Bangko Sentral,-0.514821348009884,-0.5052412748336792,0.0,1.0,0.0,165.0,negative
+6,2020-01-28,"The Philippine Economy: Towards a More Inclusive, A-rated Economy",-0.5268757343128352,-0.5230926871299744,0.0,1.0,0.0,121.0,negative
+7,2020-01-24,"A Good 2019, A Better 2020",-0.5288230739017827,-0.5200297832489014,0.0,1.0,0.0,70.0,negative
+8,2020-01-21,Opening Remarks,-0.4889906702957114,-0.4802547097206116,0.0,1.0,0.0,30.0,negative
+9,2020-01-09,"The Philippine Economy in 2020: Looking Back, Moving Forward",-0.5321975182829879,-0.5272830128669739,0.0,1.0,0.0,135.0,negative
+10,2019-12-17,Speech for the Governor,-0.49139229118344613,-0.4826616048812866,0.0,1.0,0.0,20.0,negative
+11,2019-12-02,Presentation at the Digital Payments Leaders Summit,-0.5255660458949768,-0.5148485898971558,0.0,1.0,0.0,30.0,negative
+12,2019-12-02,Opening Statement,-0.5201540442531823,-0.5075918436050415,0.0,1.0,0.0,13.0,negative
+13,2019-11-26,Keynote CMA: on BSP's 3-pronged approach to MSME financing,-0.5067750144477485,-0.5042295455932617,0.0,1.0,0.0,67.0,negative
+14,2019-11-25,Speech of Governor Benjamin E. Diokno on the 4th International Islamic Finance Conference,-0.5114323724975516,-0.5079487562179565,0.0,1.0,0.0,74.0,negative
+15,2019-11-25,Financial Health for Filipinos through Financial Education,-0.5052342166942833,-0.5060356259346008,0.0,1.0,0.0,87.0,negative
+16,2019-11-21,Sustainable Finance Towards a Climate-Resilient Philippine Economy,-0.5206974015726575,-0.5145103931427002,0.0,1.0,0.0,87.0,negative
+17,2019-11-20,Keynote Message,-0.49752174979492797,-0.498074471950531,0.0,1.0,0.0,55.0,negative
+18,2019-11-18,Message of Governor Benjamin E. Diokno on the Opening Ceremomies of the XXIII Pacific Rim Banknote Conference,-0.4988879472699784,-0.4889637231826782,0.0,1.0,0.0,16.0,negative
+19,2019-11-18,Closing Remarks for DOLE on the importance of transaction accounts for employee,-0.5112935207304276,-0.5034589767456055,0.0,1.0,0.0,51.0,negative
+20,2019-11-18,Welcome Remarks,-0.5138918941475255,-0.5060265064239502,0.0,1.0,0.0,22.0,negative
+21,2019-10-23,Keynote Message,-0.49196337773982024,-0.4886019229888916,0.0,1.0,0.0,42.0,negative
+22,2019-10-17,Philippine Identification System: Paving the Way towards Financial Inclusion,-0.5117836737069065,-0.5185984373092651,0.0,1.0,0.0,20.0,negative
+23,2019-10-16,Opening Statement,-0.5284264178599342,-0.5169410109519958,0.0,1.0,0.0,70.0,negative
+24,2019-10-11,Financial Inclusion: A Social Mandate,-0.5156455627256052,-0.5051276683807373,0.0,1.0,0.0,108.0,negative
+25,2019-10-11,Inclusion and Digital Transformation: A Collaborative Approach to Regulating Fintech,-0.5044966235506115,-0.4980217516422272,0.0,1.0,0.0,59.0,negative
+26,2019-10-10,"The Philippine Economy: Moving the Financial Services Industry Forward Through Inclusive Technology, Green Initiatives",-0.5196798964631794,-0.5123053789138794,0.0,1.0,0.0,106.0,negative
+27,2019-10-08,The Philippine Economy: Bright Prospects Ahead,-0.5175420359869976,-0.5140289068222046,0.0,1.0,0.0,84.0,negative
+28,2019-09-25,Regulations and Policies to Empower Financial Institutions And Reach Undeserved Population through Technology and Innovation,-0.5090923088692849,-0.5027766227722168,0.0,1.0,0.0,93.0,negative
+29,2019-09-24,The Philippine Economy: Sustaining Resilience Through Transformational Reforms,-0.5345941084245626,-0.5259182453155518,0.0,1.0,0.0,110.0,negative
+30,2019-09-17,"One Team, One Goal: Resilient Partnership Towards Inclusive Economic Growth",-0.5329814456758045,-0.535069465637207,0.0,1.0,0.0,47.0,negative
+31,2019-09-13,Message during signing ceremony of MOU between BSP and BCDA,-0.5091221615578394,-0.509364128112793,0.0,1.0,0.0,33.0,negative
+32,2019-09-05,A View on Meaningful Banking,-0.506919833729943,-0.5168828964233398,0.0,1.0,0.0,12.0,negative
+33,2019-09-02,Opening Remarks,-0.5126820658289728,-0.5012279748916626,0.0,1.0,0.0,21.0,negative
+34,2019-08-27,The PH Economy: Sustaining Resilience Amid Uncertainties,-0.5297142196298632,-0.5221920609474182,0.0,1.0,0.0,80.0,negative
+35,2019-08-19,Opening Remarks: Evolving Inflation Dynamics,-0.5173436291515827,-0.5101040601730347,0.0,1.0,0.0,50.0,negative
+36,2019-08-18,Dinner Remarks for BIS-BSP Research Conference,-0.5128755407785278,-0.5123919248580933,0.0,1.0,0.0,10.0,negative
+37,2019-08-16,The Road to Financial Inclusion and Sustainable Economy,-0.513846569151536,-0.5007809400558472,0.0,1.0,0.0,98.0,negative
+38,2019-08-06,Philippines: Weaving an Unprecedented Growth Story,-0.5351900626962777,-0.5238534212112427,0.0,1.0,0.0,129.0,negative
+39,2019-07-26,Central Banking Beyond Numbers,-0.5202321304436337,-0.5182143449783325,0.0,1.0,0.0,90.0,negative
+40,2019-07-23,Fueling the Growth Engine,-0.5349518454567737,-0.5268839597702026,0.0,1.0,0.0,52.0,negative
+41,2019-07-03,Governor's Message during Media Launch of New Generation Banknotes bearing Gov. Diokno's Signature,-0.5315328705878485,-0.5281118154525757,0.0,1.0,0.0,16.0,negative
+42,2019-06-21,Welcome Remarks to the GRIPS Academic Conference,-0.5186128267739122,-0.527941107749939,0.0,1.0,0.0,21.0,negative
+43,2019-06-19,The Philippine Economy: A Story of Cautious Optimism,-0.5391916687371301,-0.5330109596252441,0.0,1.0,0.0,60.0,negative
+44,2019-06-19,Fueling Growth of FDIs in the Philippines: The BSP as an Enabler,-0.5198110137743343,-0.517662763595581,0.0,1.0,0.0,100.0,negative
+45,2019-06-18,Sustained Partnerships in Financial Inclusion,-0.5189668407617096,-0.5077028870582581,0.0,1.0,0.0,38.0,negative
+46,2019-06-14,Data Governance Seminar,-0.4918752382563828,-0.48707759380340576,0.0,1.0,0.0,33.0,negative
+47,2019-06-06,Sustaining the Philippine Growth Momentum,-0.5395023428922006,-0.5312713384628296,0.0,1.0,0.0,102.0,negative
+48,2019-05-17,Ensuring Price Stability through Monetary Policy,-0.5339901312775333,-0.5295822620391846,0.0,1.0,0.0,68.0,negative
+49,2019-04-29,Continuing the Legacy: Key BSP Reforms for Sustained and More Inclusive Growth,-0.5187211932865441,-0.5150932669639587,0.0,1.0,0.0,106.0,negative
+50,2019-03-29,Beyond Conventions: Harnessing the BSP Multiplier Amidst Shifting Sands,-0.5275361462308091,-0.5171800851821899,0.0,1.0,0.0,101.0,negative
+51,2019-03-26,"Continuity, Collaboration and a Better Future",-0.5069986092439113,-0.5084956884384155,0.0,1.0,0.0,90.0,negative
+52,2019-03-08,Policy Continuity and Institutional Independence,-0.5232695186649863,-0.5209685564041138,0.0,1.0,0.0,39.0,negative
+53,2019-02-28,Remarks at the Necrological Services for the Late Gov. Nestor Espenilla Jr.,-0.48715959158707334,-0.4840547442436218,0.0,1.0,0.0,72.0,negative
+54,2019-02-26,In Memory of Governor Nesting,-0.5083903947688011,-0.5008766651153564,0.0,1.0,0.0,55.0,negative
+55,2019-02-18,Pinansyal na Talino at Kaalaman Para sa Kinabukasan,-0.4465244340813822,-0.44782841205596924,0.0,1.0,0.0,68.0,negative
+56,2019-01-25,"Optimism, Commitment and Reform",-0.5270143371846707,-0.5184243321418762,0.0,1.0,0.0,85.0,negative
+57,2019-01-24,Reflections and Resolutions,-0.5293479898753517,-0.5201789140701294,0.0,1.0,0.0,123.0,negative
+58,2019-01-21,Weaving the Financial Stability Narrative in the Asean Region,-0.4994549949477788,-0.49342358112335205,0.0,1.0,0.0,84.0,negative
+59,2019-01-03,Learning from Eagles,-0.5159808115106247,-0.5048522353172302,0.0,1.0,0.0,95.0,negative
+60,2018-12-12,Speaking Through,-0.5063400357074441,-0.5229277610778809,0.0,1.0,0.0,51.0,negative
+61,2018-10-30,Continuity Plus Plus in the Domestic FX Market,-0.5076486258835032,-0.5080397129058838,0.0,1.0,0.0,46.0,negative
+62,2018-09-17,Coming Together for MSME Development,-0.5030392312075149,-0.5034310817718506,0.0,1.0,0.0,41.0,negative
+63,2018-08-28,Ensuring Price Stability through Monetary Policy,-0.5268792685647469,-0.5158097743988037,0.0,1.0,0.0,54.0,negative
+64,2018-08-28,Press Statement for the 2017 Financial Stability Report Press Briefing,-0.5024177346175727,-0.501729428768158,0.0,1.0,0.0,31.0,negative
+65,2018-08-17,What it Means: The BSP's Mandates and Impact on Filipino Lives*,-0.5171481286839323,-0.5093399286270142,0.0,1.0,0.0,111.0,negative
+66,2018-08-14,Monetary Policy and Inflation Dynamics,-0.5304090003498629,-0.5192917585372925,0.0,1.0,0.0,86.0,negative
+67,2018-08-13,Moving the Discussion Forward,-0.49947268273824313,-0.49204960465431213,0.0,1.0,0.0,44.0,negative
+68,2018-08-08,Central Bank Evolution in the Digital Age,-0.5187946288285066,-0.5089623928070068,0.0,1.0,0.0,112.0,negative
+69,2018-08-07,Opening Remarks,-0.5071046193224208,-0.49478650093078613,0.0,1.0,0.0,32.0,negative
+70,2018-08-04,Governor's Remarks for the Gala Dinner,-0.5046253070908752,-0.5029765963554382,0.0,1.0,0.0,30.0,negative
+71,2018-07-27,Third Pillar of Central Banking,-0.5073399600909331,-0.5008354187011719,0.0,1.0,0.0,59.0,negative
+72,2018-07-27,Of Commitments and Navigation,-0.5263393310680952,-0.5192856788635254,0.0,1.0,0.0,91.0,negative
+73,2018-07-26,Going Back to Basics,-0.519318196267645,-0.5146977305412292,0.0,1.0,0.0,47.0,negative
+74,2018-07-25,Opening Statement,-0.5227059819297908,-0.5122820734977722,0.0,1.0,0.0,52.0,negative
+75,2018-07-20,Opening Remarks for the Q2 2018 BSP Inflation Report Press Briefing,-0.5315545987322986,-0.5173801779747009,0.0,1.0,0.0,46.0,negative
+76,2018-07-17,Good Governance in the Pursuit of Mandates,-0.5176581052598465,-0.517065703868866,0.0,1.0,0.0,122.0,negative
+77,2018-07-13,Changes Less Intuitive and the Digital Challenge,-0.5195059231668447,-0.5095599889755249,0.0,1.0,0.0,97.0,negative
+78,2018-07-10,"Mutualism and the ""Win-Win"" Dynamic",-0.5259827859375787,-0.5219392776489258,0.0,1.0,0.0,51.0,negative
+79,2018-07-03,Navigating the Future,-0.5194324387777964,-0.5112399458885193,0.0,1.0,0.0,99.0,negative
+80,2018-06-30,Providing an Enabling Environment at the Crossroads of Digital Transformation,-0.5074638295130918,-0.4993385076522827,0.0,1.0,0.0,108.0,negative
+81,2018-05-28,Forging Partnerships in Financial Education,-0.4958531250429098,-0.4952870309352875,0.0,1.0,0.0,38.0,negative
+82,2018-05-21,Revisiting the Role of Rural Banks in Countryside Development and Financial Inclusion,-0.5017774827001638,-0.5001521110534668,0.0,1.0,0.0,87.0,negative
+83,2018-05-09,Message,-0.5154838441487621,-0.49915966391563416,0.0,1.0,0.0,22.0,negative
+84,2018-05-09,ACT - The Cyber-Security Game Plan,-0.49924343472710175,-0.4963185787200928,0.0,1.0,0.0,55.0,negative
+85,2018-05-04,Ancient to Modern Networks,-0.5221905582632337,-0.518278956413269,0.0,1.0,0.0,37.0,negative
+86,2018-05-03,"ASEAN+3: Emergence, Sustainability and Success",-0.5200388827257686,-0.5114485025405884,0.0,1.0,0.0,33.0,negative
+87,2018-04-24,Investing in Sound Policies Towards Sustainable Growth,-0.5253517002916859,-0.5174927711486816,0.0,1.0,0.0,132.0,negative
+88,2018-04-23,In Real Time,-0.5101586454736553,-0.5106201767921448,0.0,1.0,0.0,41.0,negative
+89,2018-04-18,Thrive Not Just Survive,-0.520157530464012,-0.5111615061759949,0.0,1.0,0.0,85.0,negative
+90,2018-04-10,Navigating the Digital Frontier,-0.5168726700350895,-0.5130504369735718,0.0,1.0,0.0,100.0,negative
+91,2018-03-22,Mindfulness and Vigilance,-0.5249697492671466,-0.517901599407196,0.0,1.0,0.0,128.0,negative
+92,2018-03-12,Private Cryptocurrencies and Lessons from a Red Paperclip,-0.4978716031621138,-0.49412357807159424,0.0,1.0,0.0,110.0,negative
+93,2018-03-06,Having the Foresight to Future-Ready the Economy,-0.5187240513957965,-0.5126489400863647,0.0,1.0,0.0,126.0,negative
+94,2018-01-19,"Continuity Plus-Plus, Staying Ahead of the Curves",-0.5224813620708281,-0.5115984678268433,0.0,1.0,0.0,68.0,negative
+95,2018-01-17,Generativity,-0.5369301655850535,-0.5266118049621582,0.0,1.0,0.0,82.0,negative
+96,2018-01-12,Committed,-0.5230634614336686,-0.5141149759292603,0.0,1.0,0.0,28.0,negative
+97,2018-01-04,"Reflecting and Acting on Our Immediate Economic Past, Present and Future",-0.5204059755827901,-0.5155874490737915,0.0,1.0,0.0,99.0,negative
+98,2017-12-13,Amongst Family,-0.503172180324361,-0.529201328754425,0.0,1.0,0.0,58.0,negative
+99,2017-11-28,The BSP and Some ABCs,-0.5137804275108394,-0.5160132646560669,0.0,1.0,0.0,57.0,negative
+100,2017-11-27,Why the Philippines,-0.51931992588282,-0.5095655918121338,0.0,1.0,0.0,101.0,negative
+101,2017-11-27,Moving the Capital Markets Dialogue Forward,-0.49655647352612764,-0.49417832493782043,0.0,1.0,0.0,44.0,negative
+102,2017-11-21,Ready in the Age of Great Convergence,-0.5187639185903119,-0.5065321326255798,0.0,1.0,0.0,114.0,negative
+103,2017-11-20,Strength Without Agility is Mere Mass*,-0.5242678360575215,-0.5153780579566956,0.0,1.0,0.0,93.0,negative
+104,2017-11-17,Collective and Individual Competitive Advantages,-0.5250232974932494,-0.5147474408149719,0.0,1.0,0.0,113.0,negative
+105,2017-11-11,UP Naming Mahal: Di Rin Magbabago Ang Damdamin,-0.5050790077450132,-0.5074962377548218,0.0,1.0,0.0,122.0,negative
+106,2017-11-08,"Disruptors, Enablers and Intended Consequences",-0.5161907587400091,-0.513657808303833,0.0,1.0,0.0,112.0,negative
+107,2017-10-27,Statistical and Actual Inclusion,-0.5179438502858011,-0.5124648213386536,0.0,1.0,0.0,64.0,negative
+108,2017-10-26,Thinking out of the Bank,-0.5157237735706478,-0.5085662603378296,0.0,1.0,0.0,127.0,negative
+109,2017-10-25,Maintaining a Conducive Macroeconomic Environment,-0.5175865773224949,-0.5138041973114014,0.0,1.0,0.0,100.0,negative
+110,2017-10-24,"Build, Build, Building our FIN-frastructure",-0.523439877496278,-0.5154989361763,0.0,1.0,0.0,114.0,negative
+111,2017-10-23,Of BFFs and Growth,-0.5108704811323133,-0.5013148784637451,0.0,1.0,0.0,111.0,negative
+112,2017-10-18,Supporting the Backbone as we Sprint,-0.5176752942056373,-0.5085378885269165,0.0,1.0,0.0,91.0,negative
+113,2017-10-04,Continuity and Change: Not an Either/Or,-0.5262160280684522,-0.5195586681365967,0.0,1.0,0.0,105.0,negative
+114,2017-09-21,Invisible to Joined Hands,-0.5273493088602416,-0.5173853635787964,0.0,1.0,0.0,116.0,negative
+115,2017-09-20,Optimum Navigation,-0.5252595199715524,-0.5181150436401367,0.0,1.0,0.0,100.0,negative
+116,2017-09-06,"Sama-sama, Para Walang Maiwan",-0.4469733902311742,-0.4476475119590759,0.0,1.0,0.0,49.0,negative
+117,2017-09-04,Sticktoitiveness,-0.531050956321022,-0.5260190963745117,0.0,1.0,0.0,107.0,negative
+118,2017-08-30,The Big Picture,-0.5354049588890154,-0.5253704190254211,0.0,1.0,0.0,104.0,negative
+119,2017-08-29,Returns,-0.5335988430363552,-0.5330610275268555,0.0,1.0,0.0,79.0,negative
+120,2017-08-29,Super...Vision: Foresight in the Era of Digitization,-0.5114724955224869,-0.501124918460846,0.0,1.0,0.0,92.0,negative
+121,2017-08-25,Beginning a Meaningful Conversation: First Coordination Dialogue on Developing the Local Debt Market,-0.5213768354885862,-0.5110868215560913,0.0,1.0,0.0,67.0,negative
+122,2017-08-22,Truths in Lending,-0.5147568860253376,-0.5009628534317017,0.0,1.0,0.0,100.0,negative
+123,2017-07-28,Imagining New Possibilities: Embracing Challenges and Recognizing Opportunities in Microfinance,-0.5104721326102759,-0.507360577583313,0.0,1.0,0.0,111.0,negative
+124,2017-07-26,Of Becoming Advocates - Partnering for a Stronger Legal Environment for Banking and Finance,-0.5231095183332224,-0.5172892212867737,0.0,1.0,0.0,114.0,negative
+125,2017-07-26,Bangko Sentral Mandates and How They Help Maintain a Stable Business Environment,-0.5252387591534191,-0.5086305141448975,0.0,1.0,0.0,96.0,negative
+126,2017-07-26,Building on Built Foundations: Continuity and Change,-0.5223730123389122,-0.5238121747970581,0.0,1.0,0.0,91.0,negative
+127,2017-07-14,BSP and BAIPHIL Moving Mountains: New Heights in Banking Excellence,-0.5144425847040299,-0.5082664489746094,0.0,1.0,0.0,93.0,negative
+128,2017-07-11,Turning Vision Into Partnership,-0.5245258729765585,-0.5210835337638855,0.0,1.0,0.0,63.0,negative
+129,2017-07-10,The Philippines and Japan: Enhancing Strategic Partnership,-0.5277638547469017,-0.52728271484375,0.0,1.0,0.0,57.0,negative
+130,2017-07-04,Information Security in Nation Building,-0.5078028827927682,-0.5074930191040039,0.0,1.0,0.0,45.0,negative
+131,2017-07-03,Central Banking & Symphonies,-0.5165553984095276,-0.5152251720428467,0.0,1.0,0.0,67.0,negative
+132,2017-07-03,Continuing the Voyage of Excellence to a Bright Tomorrow,-0.5196974947233206,-0.5158666372299194,0.0,1.0,0.0,98.0,negative
+133,2017-06-06,Financial Education and Consumer Protection: Triggering a Positive Ripple Effect,-0.5076757145339045,-0.5063130259513855,0.0,1.0,0.0,48.0,negative
+134,2017-06-06,"Running the Race, Fighting the Good Fight",-0.5202400569854141,-0.5174493789672852,0.0,1.0,0.0,124.0,negative
+135,2017-05-26,"Corporate, Environmental and Social Governance: Continuing Capacity Building",-0.506610201133347,-0.5014578104019165,0.0,1.0,0.0,88.0,negative
+136,2017-05-25,"Of Central Banking, Art and Legacies",-0.519291633445538,-0.5180509090423584,0.0,1.0,0.0,67.0,negative
+137,2017-05-24,Two Sides of the Same Coin: Transforming Challenges into Opportunities,-0.515619276513305,-0.5118938088417053,0.0,1.0,0.0,102.0,negative
+138,2017-03-31,The Transformation of the Philippine Retail Payment System,-0.5031718430202552,-0.49254411458969116,0.0,1.0,0.0,62.0,negative
+139,2017-03-28,In Pursuit of Sustainable and Inclusive Growth,-0.5336409488463424,-0.5232124328613281,0.0,1.0,0.0,158.0,negative
+140,2017-03-23,Learning from Instabilities to Build a Better Market,-0.5064457360262588,-0.5049444437026978,0.0,1.0,0.0,62.0,negative
+141,2017-03-14,Philippine Thrift Banks in a Changing Environment,-0.5128136699646988,-0.5055582523345947,0.0,1.0,0.0,97.0,negative
+142,2017-03-14,Empowering LGUs with Knowledge Sharing,-0.5172303992734161,-0.5063505172729492,0.0,1.0,0.0,28.0,negative
+143,2017-03-11,Philippine Banking in an Integrated Regional Financial Market,-0.5174480389114,-0.5106722712516785,0.0,1.0,0.0,94.0,negative
+144,2017-03-10,Advancing Cooperation in an Increasingly Non-Cooperative World,-0.5237027479249031,-0.5163441300392151,0.0,1.0,0.0,51.0,negative
+145,2017-03-07,Financial Inclusion,-0.4965178045961592,-0.4953058958053589,0.0,1.0,0.0,45.0,negative
+146,2017-01-10,"The Philippine Banking System: the Past, the Present and the Future",-0.5094913988784217,-0.4995320737361908,0.0,1.0,0.0,71.0,negative
+147,2017-01-05,Marking Time: Anchoring Strengths Amidst Uncertainties,-0.5229700099163703,-0.513640284538269,0.0,1.0,0.0,111.0,negative
+148,2016-12-06,2016 Outstanding Microentrepreneurs: Leading the Way to Success,-0.501832905801148,-0.49844229221343994,0.0,1.0,0.0,44.0,negative
+149,2016-11-23,A Tale of Tail Events,-0.5226748830488417,-0.5107457637786865,0.0,1.0,0.0,102.0,negative
+150,2016-11-23,A Decade of Search for Inspiring Leadership in the Financial Sector,-0.5111992609015,-0.506424069404602,0.0,1.0,0.0,65.0,negative
+151,2016-11-21,A Vision for Resilience and Growth,-0.5209945367433454,-0.5148703455924988,0.0,1.0,0.0,96.0,negative
+152,2016-09-30,Consumer Protection: A Shared Responsibility,-0.5117153069437993,-0.5100306272506714,0.0,1.0,0.0,40.0,negative
+153,2016-09-30,Collaborative Undertaking In Pursuit of Financial Stability,-0.5158599109235813,-0.5039476752281189,0.0,1.0,0.0,43.0,negative
+154,2016-09-29,Sound Macrofundamentals - A Steady Anchor,-0.5324560277503176,-0.524418830871582,0.0,1.0,0.0,69.0,negative
+155,2016-09-22,"Alpha, Beta, Gamma: Measured Risk-Taking and Dynamism Amidst Challenging Times",-0.5243725815149308,-0.5188138484954834,0.0,1.0,0.0,119.0,negative
+156,2016-09-21,Macro-Financial Linkages: Looking Back to Look Ahead,-0.4988492277315699,-0.4925040006637573,0.0,1.0,0.0,79.0,negative
+157,2016-09-06,Sustaining Relative Strength in a Dynamic Environment,-0.5340839155351174,-0.5261397361755371,0.0,1.0,0.0,79.0,negative
+158,2016-08-30,"Building on progress, Bringing in changes",-0.5357319046766218,-0.5299614667892456,0.0,1.0,0.0,98.0,negative
+159,2016-08-16,Anchoring Confidence in an Era of Radical Uncertainty,-0.5300579399379606,-0.5122116804122925,0.0,1.0,0.0,83.0,negative
+160,2016-07-21,"Asset Management Growth: Recognizing Success and Managing Black Swans, Elephants in the room and Grey Rhinos",-0.49615891667793266,-0.4932304620742798,0.0,1.0,0.0,53.0,negative
+161,2016-07-15,Leveraging Capabilities and Synergies for Banking Excellence,-0.5012120382624422,-0.49895599484443665,0.0,1.0,0.0,72.0,negative
+162,2016-07-14,"ASEAN Integration, Change and Collaboration",-0.5088674418270328,-0.5033262968063354,0.0,1.0,0.0,86.0,negative
+163,2016-07-13,Great Significance and Consequences,-0.5208015928354784,-0.5165051221847534,0.0,1.0,0.0,61.0,negative
+164,2016-07-12,Pursuing Financial Stability Thru Innovations In Cheque Clearing and Settlement,-0.5062228613328296,-0.49277472496032715,0.0,1.0,0.0,54.0,negative
+165,2016-07-05,A Culture of Inquiry and Evidence,-0.5046016874825907,-0.4997563362121582,0.0,1.0,0.0,62.0,negative
+166,2016-06-03,Mainstreaming Financial Inclusion as a Strategic Objective,-0.5062883343266918,-0.49985864758491516,0.0,1.0,0.0,101.0,negative
+167,2016-05-23,Rural Banks: Making a Difference in Financial Inclusion,-0.5188090731839933,-0.5095908641815186,0.0,1.0,0.0,83.0,negative
+168,2016-05-17,Keynote Message,-0.504477579852004,-0.4986528158187866,0.0,1.0,0.0,46.0,negative
+169,2016-05-16,Strengthening the Monetary Transmission Mechanism through the BSP's Interest Rate Corridor System,-0.5087682702793118,-0.5006186962127686,0.0,1.0,0.0,41.0,negative
+170,2016-04-28,Building Inclusive Growth for Migrant Workers through Multi-Sectoral Partnerships,-0.5157316480321114,-0.5063342452049255,0.0,1.0,0.0,64.0,negative
+171,2016-04-11,National Strategy for Financial Inclusion Tactical Plans: Working Together with the Private Sector,-0.4995470774390608,-0.4958772659301758,0.0,1.0,0.0,54.0,negative
+172,2016-03-18,Sustaining the Momentum for Inclusive Growth,-0.518981982717578,-0.5135673880577087,0.0,1.0,0.0,87.0,negative
+173,2016-03-18,"Tapping Into Our Strengths: Opportunities, Threats and Challenges for 2016 and Beyond in the Philippines and Asia",-0.520465124618536,-0.5138847827911377,0.0,1.0,0.0,100.0,negative
+174,2016-02-23,Philippines in 2016: Sustaining Resilience Amid Headwinds,-0.5169432886747647,-0.511760950088501,0.0,1.0,0.0,175.0,negative
+175,2016-02-10,Sustainable Inclusive Growth & Good Governance,-0.5205132445808133,-0.5125019550323486,0.0,1.0,0.0,54.0,negative
+176,2016-01-19,The BSP and The Philippine Banking Sector: Sustaining Financial Stability Amid Global Volatility,-0.5245925189421694,-0.5189039707183838,0.0,1.0,0.0,78.0,negative
+177,2016-01-07,Looking Back to Move Ahead in 2016,-0.5221056379744264,-0.5188648700714111,0.0,1.0,0.0,112.0,negative
+178,2015-11-24,Steer Toward True North,-0.5143474956246508,-0.5091910362243652,0.0,1.0,0.0,122.0,negative
+179,2015-11-24,Evolving Cyber Threats: Are We Prepared?,-0.5092825676236764,-0.5033909678459167,0.0,1.0,0.0,73.0,negative
+180,2015-11-14,Of Ironies and Synergy,-0.5006087134526848,-0.4967583119869232,0.0,1.0,0.0,113.0,negative
+181,2015-11-03,Launching of the Paranaque City Credit Surety Fund,-0.4968285132387089,-0.4863939881324768,0.0,1.0,0.0,42.0,negative
+182,2015-10-27,Scaling Up Inroads in Financial Inclusion for a Quantum Leap,-0.5054726996455594,-0.4962815046310425,0.0,1.0,0.0,88.0,negative
+183,2015-10-20,Pushing the Island's Boundaries,-0.5100444256333831,-0.5031758546829224,0.0,1.0,0.0,119.0,negative
+184,2015-10-02,Prospects for and Developments in the Philippine Banking System,-0.5087978802829223,-0.5034686923027039,0.0,1.0,0.0,116.0,negative
+185,2015-09-29,Navigating Thru the Waters of Change...and Butterflies.,-0.520567142694451,-0.5099758505821228,0.0,1.0,0.0,120.0,negative
+186,2015-09-16,"Consultation, Collaboration and Cooperation: Moving the Capital Market Agenda Forward",-0.5126095208761796,-0.5088884830474854,0.0,1.0,0.0,52.0,negative
+187,2015-09-02,Animal Spirits in a Period of Volatility,-0.5295252616054558,-0.5244718790054321,0.0,1.0,0.0,126.0,negative
+188,2015-08-28,Scaling Up for a More Inclusive and More Responsive Financial System,-0.5078608338496392,-0.5085449814796448,0.0,1.0,0.0,76.0,negative
+189,2015-08-07,Philippine History Wrought in Gold,-0.5144379169406514,-0.5227879285812378,0.0,1.0,0.0,25.0,negative
+190,2015-07-24,BANCNET 25th Anniversary,-0.515179037458479,-0.5152034759521484,0.0,1.0,0.0,29.0,negative
+191,2015-07-21,Opportunities in Financial Inclusion and Financial Integration,-0.5157439789935424,-0.511566698551178,0.0,1.0,0.0,93.0,negative
+192,2015-07-03,We Are All Wealth Watchers,-0.5113002523968492,-0.5051873922348022,0.0,1.0,0.0,44.0,negative
+193,2015-07-02,Building Public Trust Through Responsible Governance,-0.5214202749422209,-0.5154808759689331,0.0,1.0,0.0,114.0,negative
+194,2015-07-01,National Strategy for Financial Inclusion: Our Platform to Provide Better Lives,-0.5145301057652394,-0.5065659284591675,0.0,1.0,0.0,57.0,negative
+195,2015-06-26,Celebrating Freedom and Responsibility,-0.5222846181142671,-0.5213229656219482,0.0,1.0,0.0,100.0,negative
+196,2015-06-17,Adapting to Change.. Creating Advantages from Challenges,-0.5144416960048865,-0.5135266780853271,0.0,1.0,0.0,101.0,negative
+197,2015-06-10,Developing the Philippine Capital Market: Leveraging Policy Intentions into Concrete Actions,-0.5082799744563049,-0.506101131439209,0.0,1.0,0.0,78.0,negative
+198,2015-06-03,Progress and Challenges in the Philippine Financial System,-0.526646349273556,-0.5131332278251648,0.0,1.0,0.0,95.0,negative
+199,2015-05-22,Generating More Winners in Microfinance,-0.49641283179599854,-0.49299004673957825,0.0,1.0,0.0,49.0,negative
+200,2015-05-20,Acting Together for Financial Inclusion,-0.4942190133971498,-0.4873894453048706,0.0,1.0,0.0,53.0,negative
+201,2015-05-20,Geared up for Global Reform and Regional Integration,-0.5160929624255021,-0.5105564594268799,0.0,1.0,0.0,77.0,negative
+202,2015-05-18,Rural Banks: Portals of Inclusiveness for Juan and Juana dela Cruz,-0.5215358205030701,-0.5174809694290161,0.0,1.0,0.0,86.0,negative
+203,2015-04-07,Strategic Challenges Ahead for Banking and for Thrift Banks,-0.5113606378692123,-0.5033372044563293,0.0,1.0,0.0,87.0,negative
+204,2015-03-24,"Sustaining the Economy's Growth Saga through The 3Ps of Policymaking: Proactive, Pre-emptive, and Prudent",-0.5219034063363653,-0.5098955035209656,0.0,1.0,0.0,73.0,negative
+205,2015-03-17,Financial Rehabilitation and Insolvency Regime in the Philippines: Progress and Remaining Challenges,-0.5056708248078146,-0.5013382434844971,0.0,1.0,0.0,102.0,negative
+206,2015-02-24,Sustaining Economic Growth,-0.5181944278053573,-0.5043374300003052,0.0,1.0,0.0,137.0,negative
+207,2015-02-20,Keeping the Economy on the Right Track: Key Challenges for Monetary Policy,-0.5244833667443334,-0.521291971206665,0.0,1.0,0.0,87.0,negative
+208,2015-01-30,Working Together towards a Stronger Economy,-0.5282210261186082,-0.5185359120368958,0.0,1.0,0.0,101.0,negative
+209,2015-01-30,Moving Forward With Financial infrastructure Integration Thru the BSP's Reverse Repurchase E-Trading System,-0.5205696513941998,-0.49799495935440063,0.0,1.0,0.0,22.0,negative
+210,2015-01-30,Building an Efficient and Inclusive National Payment System,-0.5144879184113843,-0.5039236545562744,0.0,1.0,0.0,37.0,negative
+211,2015-01-23,The BSP and the Banking Industry: Weaving a Story of Growth and Development,-0.5239553979687552,-0.510301947593689,0.0,1.0,0.0,78.0,negative
+212,2015-01-08,The Philippine Economy Going Forward,-0.5244284691338871,-0.5140629410743713,0.0,1.0,0.0,98.0,negative
+213,2014-12-03,Microfinance Improves Lives and Bank Profits,-0.48588814639013284,-0.49564313888549805,0.0,1.0,0.0,41.0,negative
+214,2014-11-27,EMPOWERING MSMEs THROUGH CSFs,-0.5039119078313965,-0.4920526146888733,0.0,1.0,0.0,25.0,negative
+215,2014-11-05,Improving Financial Literacy and Increasing Financial Inclusion to Sustain Economic Growth,-0.5070064433572857,-0.49831968545913696,0.0,1.0,0.0,98.0,negative
+216,2014-10-29,Keeping the House in Order amid Mounting Uncertainties,-0.5291480683884061,-0.5207532644271851,0.0,1.0,0.0,73.0,negative
+217,2014-10-20,From Saving to Investments and to Retirement: The Role of Inclusive Growth,-0.5092624878084193,-0.5033788681030273,0.0,1.0,0.0,98.0,negative
+218,2014-10-20,Nurturing Excellence in Finance Education,-0.5212516537567481,-0.510883092880249,0.0,1.0,0.0,48.0,negative
+219,2014-09-30,"Infrastructure, Inclusiveness, Institutions - Raising the Philippines to the Next Level",-0.5322590952508905,-0.5208694934844971,0.0,1.0,0.0,59.0,negative
+220,2014-09-25,Banking on Social Safety Nets,-0.5139742728031549,-0.5081117749214172,0.0,1.0,0.0,73.0,negative
+221,2014-09-24,Working on ASEAN Governance Standards,-0.5039109206102431,-0.4925042390823364,0.0,1.0,0.0,36.0,negative
+222,2014-09-23,Convergence in a Divergent World,-0.5194456546028027,-0.5151157379150391,0.0,1.0,0.0,139.0,negative
+223,2014-09-10,The Three Cs of AFI's Success,-0.49666968373266895,-0.48629051446914673,0.0,1.0,0.0,74.0,negative
+224,2014-09-09,Moving Forward Together,-0.4831618994446322,-0.4895736277103424,0.0,1.0,0.0,33.0,negative
+225,2014-09-05,Building a Collective Brand for the Banking Industry,-0.5088286792759741,-0.49865370988845825,0.0,1.0,0.0,128.0,negative
+226,2014-08-29,Seizing Opportunities Amid a Growing Banking Environment,-0.5152235811620082,-0.5120996236801147,0.0,1.0,0.0,104.0,negative
+227,2014-08-20,Been There and Done That: Why This Would Not Be Enough For What Lies Ahead,-0.5128010414668617,-0.5029424428939819,0.0,1.0,0.0,97.0,negative
+228,2014-08-18,Setting a Milestone with the Quezon City Credit Surety Fund,-0.5195771200171971,-0.5087336301803589,0.0,1.0,0.0,27.0,negative
+229,2014-08-13,Sustaining Growth While Riding the Uncertainty,-0.5215426688091629,-0.5136235952377319,0.0,1.0,0.0,93.0,negative
+230,2014-07-09,2014 Stakeholders Awards Ceremony and Appreciation Lunch,-0.5273816421816061,-0.5177344083786011,0.0,1.0,0.0,46.0,negative
+231,2014-07-01,Navigating the New Rural Banking Landscape: Challenges and Opportunities,-0.5234598857878096,-0.5189332365989685,0.0,1.0,0.0,71.0,negative
+232,2014-06-18,CMA: More Than an Awards Program,-0.5010380701672646,-0.4930460453033447,0.0,1.0,0.0,28.0,negative
+233,2014-05-28,The Philippine Economy: Gearing up for the Challenges Ahead,-0.5279803379064425,-0.5222700238227844,0.0,1.0,0.0,140.0,negative
+234,2014-05-19,Policy Challenges Amid an Evolving Investment Environment,-0.5134982212006013,-0.5056627988815308,0.0,1.0,0.0,74.0,negative
+235,2014-04-26,Sustaining Stability in the Uncertain Transition to Normalization,-0.5230951745250872,-0.51736980676651,0.0,1.0,0.0,104.0,negative
+236,2014-03-19,The Strength of Retail: in a Wider ASEAN Economy,-0.5275990164578974,-0.5243993401527405,0.0,1.0,0.0,81.0,negative
+237,2014-03-18,Enhancing Resilience to Sustain Inclusive Growth,-0.5296038699265055,-0.5182350873947144,0.0,1.0,0.0,64.0,negative
+238,2014-03-11,Islamic Banking and Finance in the Philippines: Opportunities and Challenges,-0.510414146549259,-0.5002219676971436,0.0,1.0,0.0,68.0,negative
+239,2014-02-28,What lies ahead?,-0.5342838335522385,-0.5411015748977661,0.0,1.0,0.0,28.0,negative
+240,2014-02-21,Enabling Market-Based Solutions Toward Financial Inclusion,-0.5106023193701453,-0.5027875900268555,0.0,1.0,0.0,58.0,negative
+241,2014-02-18,A Responsive Capital Market: A Step on the Road beyond Investment Grade,-0.5196754398962189,-0.5141792297363281,0.0,1.0,0.0,73.0,negative
+242,2014-01-29,The Pursuit of Financial Stability: A Daunting But Necessary Prudential Agenda,-0.5036065029654097,-0.49924197793006897,0.0,1.0,0.0,31.0,negative
+243,2014-01-09,Continuing Growth Amidst Recurrent Risks and Uncertainty,-0.5226695368956401,-0.5133200883865356,0.0,1.0,0.0,116.0,negative
+244,2013-12-03,Sustaining Growth Through Insolvency Reforms,-0.5117893397808075,-0.5002115964889526,0.0,1.0,0.0,28.0,negative
+245,2013-12-03,Empowering Entrepreneurs Through Responsive Microfinance Programs,-0.5042252183428498,-0.4962986707687378,0.0,1.0,0.0,49.0,negative
+246,2013-11-29,"The Philippine Economy: Amidst Global Headwinds, Leveraging on Domestic Tailwinds to Stay the Course",-0.5235285448557452,-0.5146859288215637,0.0,1.0,0.0,68.0,negative
+247,2013-10-25,Philippine Banking: Responsive and Responsible,-0.5238963845132412,-0.5127968192100525,0.0,1.0,0.0,103.0,negative
+248,2013-10-09,Partnerships Against Poverty,-0.5088996135170867,-0.5025086402893066,0.0,1.0,0.0,71.0,negative
+249,2013-09-24,BSP Policy Directions in a Challenging Landscape,-0.5241434509995617,-0.516795814037323,0.0,1.0,0.0,166.0,negative
+250,2013-08-27,The PDIC & the BSP: Continuing a Partnership for Stability,-0.49842483546528116,-0.4931205213069916,0.0,1.0,0.0,19.0,negative
+251,2013-07-25,IABC's 2013 CEO Excel Lifetime Achievement Award,-0.5187302866993131,-0.512152373790741,0.0,1.0,0.0,45.0,negative
+252,2013-07-19,The BSP and the Banking Community: Forging a Strong Partnership that Benefits the Country,-0.5179928815451221,-0.510509729385376,0.0,1.0,0.0,67.0,negative
+253,2013-07-17,Fostering a Culture of Good Governance and Compliance,-0.5196625706772087,-0.509807825088501,0.0,1.0,0.0,96.0,negative
+254,2013-07-16,BSP's Stakeholders' Awards: A Celebration of Solid Partnership,-0.5319865738477181,-0.5168567895889282,0.0,1.0,0.0,61.0,negative
+255,2013-07-08,Championing Microentrepreneurship,-0.49020799184764924,-0.49212926626205444,0.0,1.0,0.0,42.0,negative
+256,2013-07-03,"BSP at 20: Past Progressive, Future Perfect",-0.5167102282095677,-0.512710690498352,0.0,1.0,0.0,99.0,negative
+257,2013-07-01,Ugaliing mag-impok,-0.4376215650426982,-0.43406495451927185,0.0,1.0,0.0,17.0,negative
+258,2013-06-26,Upgrades and Strong Growth: Dealing with the Short-term to Get to the End Goal,-0.540880038444247,-0.5478547215461731,0.0,1.0,0.0,66.0,negative
+259,2013-06-10,Rural Banks: Working on Inclusive Growth in an Exclusive World of Banking,-0.5203233382668618,-0.5119918584823608,0.0,1.0,0.0,70.0,negative
+260,2013-03-22,Speech of the Governor for the Opening Ceremony of the 29th Biennial Convention of FFCCCII,-0.5195396732096471,-0.5134134292602539,0.0,1.0,0.0,92.0,negative
+261,2013-03-20,Building Broader Horizons in 2013,-0.5174471003290279,-0.5086150169372559,0.0,1.0,0.0,93.0,negative
+262,2013-03-18,Embedding Business Continuity as a Mindset,-0.5140200019169657,-0.4955010414123535,0.0,1.0,0.0,34.0,negative
+263,2013-03-12,The Philippine Economy: Primes for a Sustainable and Solid Growth,-0.5340149641036988,-0.5205098390579224,0.0,1.0,0.0,69.0,negative
+264,2013-02-13,Promoting the Rule of Law in the Financial Sector,-0.500247365089347,-0.49275076389312744,0.0,1.0,0.0,28.0,negative
+265,2013-01-18,Vigilance Amid Stability and Growth,-0.5236981159031185,-0.5109032392501831,0.0,1.0,0.0,62.0,negative
+266,2013-01-03,Speech of the Governor during the Rotary Club of Manila's First Membership Meeting for 2013,-0.5143880170932026,-0.5134742856025696,0.0,1.0,0.0,107.0,negative
+267,2012-12-05,Financial Capability as a 21st Century Life Skill,-0.502566687913876,-0.504968523979187,0.0,1.0,0.0,44.0,negative
+268,2012-12-04,Crafting a Regional Agenda for Child & Youth Finance,-0.5165909953720854,-0.5171805620193481,0.0,1.0,0.0,57.0,negative
+269,2012-11-27,Currency Stability Amidst Global Volatilities,-0.5233274364023467,-0.5094643831253052,0.0,1.0,0.0,84.0,negative
+270,2012-10-30,Capital Market Education: A Tool for Market Development and Financial Stability,-0.511609081472568,-0.5024254322052002,0.0,1.0,0.0,82.0,negative
+271,2012-10-24,Keynote Address,-0.49239128429243734,-0.492653489112854,0.0,1.0,0.0,57.0,negative
+272,2012-10-22,Nurturing World-Class Finance Leaders,-0.5286094269920565,-0.5280579924583435,0.0,1.0,0.0,46.0,negative
+273,2012-10-05,Crafting Policy in a Shifting Operating Environment,-0.5151832625999788,-0.5032466650009155,0.0,1.0,0.0,115.0,negative
+274,2012-09-19,Managing Risks in a Financial Stability World: How Different is this Prudential World?,-0.5285526924689441,-0.5164264440536499,0.0,1.0,0.0,98.0,negative
+275,2012-09-06,Philippine Banking: Reaping the Rewards from Prudent Reforms,-0.5067730181087378,-0.501533031463623,0.0,1.0,0.0,87.0,negative
+276,2012-08-23,Keynote Remarks,-0.5192357864018171,-0.5069360136985779,0.0,1.0,0.0,103.0,negative
+277,2012-07-26,Ensuring a Better and More Inclusive Microfinance Sector,-0.508534336533766,-0.5067504048347473,0.0,1.0,0.0,32.0,negative
+278,2012-07-11,Capacity-Building and the BSP Reform Agenda,-0.5167241799107365,-0.5118035078048706,0.0,1.0,0.0,92.0,negative
+279,2012-06-18,Taking the Next Steps at a Time of Change,-0.5167094703876611,-0.5057376623153687,0.0,1.0,0.0,93.0,negative
+280,2012-05-16,REMARKS,-0.5201535832827161,-0.5118359923362732,0.0,1.0,0.0,44.0,negative
+281,2012-03-26,Remarks,-0.5183449345868785,-0.5088802576065063,0.0,1.0,0.0,20.0,negative
+282,2012-03-21,The Thrift Banking Industry Amid an Evolving Global Landscape,-0.5167567467583374,-0.5094965696334839,0.0,1.0,0.0,68.0,negative
+283,2012-03-20,"Managing External Debt, A Move to Ensure Economic Growth",-0.5202487849155493,-0.5136210918426514,0.0,1.0,0.0,36.0,negative
+284,2012-02-07,Financial Stability and Financial Inclusion: Two Facets of the Same Policy Objective,-0.4987537251482965,-0.4992780387401581,0.0,1.0,0.0,107.0,negative
+285,2012-01-20,The BSP and the Banking Community: Partners in Sustainable Development,-0.5217889488587124,-0.5148236751556396,0.0,1.0,0.0,70.0,negative
+286,2011-11-16,Cooperative Effort to Strengthen Cooperatives,-0.5018003424151752,-0.5010339021682739,0.0,1.0,0.0,29.0,negative
+287,2011-10-25,Amid Global Uncertainties: Philippines Sailing in Rough Tides,-0.5298196591894119,-0.5249981880187988,0.0,1.0,0.0,82.0,negative
+288,2011-10-20,"Philippine Banking: Remaining Responsive, Responsible and Relevant",-0.5177802416452819,-0.5113791227340698,0.0,1.0,0.0,94.0,negative
+289,2011-08-04,Surging Together for An Inclusive Financial System,-0.5125507933003494,-0.5074996948242188,0.0,1.0,0.0,97.0,negative
+290,2011-07-06,"""The Benefits of Partnership: Working for Sustainable and Inclusive Growth""",-0.5177372595998976,-0.5119709968566895,0.0,1.0,0.0,70.0,negative
+291,2011-07-05,BSP @18th: A Stable Anchor for Sustained Growth,-0.5042073323190153,-0.504814624786377,0.0,1.0,0.0,103.0,negative
+292,2011-05-03,The Philippine Initiative: Harnessing the Development Potential of Migrants' Remittances,-0.5231700670924192,-0.515972375869751,0.0,1.0,0.0,47.0,negative
+293,2011-01-14,The Philippine Banking Sector: Stepping Up to the Challenge of Setting the Foundation for Sustained & Inclusive Growth,-0.522617359333636,-0.5101197361946106,0.0,1.0,0.0,46.0,negative
+294,2011-01-06,The Philippines: Vision Toward Sustained Rapid Growth,-0.5168895666040896,-0.5120765566825867,0.0,1.0,0.0,103.0,negative
+295,2010-11-17,Remarks for the Foreign Correspondents Association of the Philippines' (FOCAP) Breakfast Forum,-0.529913766015012,-0.51661217212677,0.0,1.0,0.0,71.0,negative
+296,2010-10-27,The POS Interconnection: Giving Better Banking Services Together,-0.5205822730909533,-0.5023066401481628,0.0,1.0,0.0,40.0,negative
+297,2010-08-18,The Philippines: Creating Opportunities Through Effective Governance,-0.527184827956356,-0.5185412168502808,0.0,1.0,0.0,53.0,negative
+298,2010-08-12,12th Credit Surety Fund is in Albay,-0.48942629033647794,-0.49570852518081665,0.0,1.0,0.0,40.0,negative
+299,2010-08-07,Closing Remarks,-0.528506710430501,-0.5302119255065918,0.0,1.0,0.0,38.0,negative
+300,2010-08-04,Keynote Message Launching of Strengthening Program for Rural Banks (SPRB),-0.5165005909698838,-0.5159454345703125,0.0,1.0,0.0,22.0,negative
+301,2010-07-27,Moving Central Banking Forward Through the Legal Framework,-0.5157164801907448,-0.5041141510009766,0.0,1.0,0.0,35.0,negative
+302,2010-07-27,In Praise of BSP's Top Performers,-0.5158973754677054,-0.5070465803146362,0.0,1.0,0.0,37.0,negative
+303,2010-07-20,"BAIPhil @ 70: Empowering the Banking Industry Through Continuing Education, Innovation and Research",-0.5175553140702186,-0.5132612586021423,0.0,1.0,0.0,65.0,negative
+304,2010-07-07,Moving Forward Through Stronger Partnerships,-0.5221434419913253,-0.5164142847061157,0.0,1.0,0.0,63.0,negative
+305,2010-07-05,The BSP @ 17: Moving the Economy Forward,-0.5166462738785828,-0.5050427913665771,0.0,1.0,0.0,128.0,negative
+306,2010-07-03,Nurturing Responsible Young Leaders through SIFE,-0.5165643580928253,-0.5039581656455994,0.0,1.0,0.0,39.0,negative
+307,2010-07-02,Nurturing the BSP-RBAP Partnership,-0.5067714333128767,-0.4961254596710205,0.0,1.0,0.0,31.0,negative
+308,2010-06-17,Welcome Remarks,-0.5302355098759196,-0.5205080509185791,0.0,1.0,0.0,40.0,negative
+309,2010-06-02,Microfinance: From Best Practice to Next Practice,-0.5056496825504739,-0.5002565383911133,0.0,1.0,0.0,60.0,negative
+310,2010-05-31,Strengthening Financial Inclusion & Social Protection,-0.5083848133445841,-0.5012916326522827,0.0,1.0,0.0,88.0,negative
+311,2010-05-21,Empowering Entrepreneurial Filipinos Thru Microfinance,-0.4923619546522878,-0.4943005442619324,0.0,1.0,0.0,42.0,negative
+312,2010-03-12,Moving the Economy Forward Through Banking,-0.5173942150322945,-0.5128993391990662,0.0,1.0,0.0,72.0,negative
+313,2010-01-27,Finance Education: A Cornerstone for Economic and Social Advancement,-0.5091046692254699,-0.500523030757904,0.0,1.0,0.0,45.0,negative
+314,2010-01-14,Forging Ahead Toward Higher Ground,-0.5188250572560076,-0.5158159136772156,0.0,1.0,0.0,63.0,negative
+315,2009-12-08,Innovations Toward Financial Inclusion,-0.5093504088804309,-0.4987041652202606,0.0,1.0,0.0,62.0,negative
+316,2009-12-02,Supporting Overseas Workers Thru Lower Remittance Fees,-0.5089222338016427,-0.4988793730735779,0.0,1.0,0.0,27.0,negative
+317,2009-11-23,ENSURING EFFICIENT & ECO-FRIENDLY ASEAN MINTS,-0.533220669466096,-0.5351625084877014,0.0,1.0,0.0,26.0,negative
+318,2009-11-04,Prospects and Challenges in 2010: The Bond Market in the Context of the Philippine Economy?,-0.5041265863568472,-0.5005306601524353,0.0,1.0,0.0,104.0,negative
+319,2009-10-30,"What's for Asian Banking? Re-Assess, Re-evaluate, Re-tool and Re-Position?",-0.5095131758829994,-0.5018570423126221,0.0,1.0,0.0,95.0,negative
+320,2009-10-23,The Philippines on the Road to Recovery,-0.5329938931047432,-0.5257514715194702,0.0,1.0,0.0,106.0,negative
+321,2009-09-09,Corporate Governance Reform in the Philippines: Progress and Challenges,-0.5040622924764951,-0.4951242506504059,0.0,1.0,0.0,66.0,negative
+322,2009-09-01,BSP and SSS: Moving Towards a Common Vision,-0.5175750822242949,-0.5141692161560059,0.0,1.0,0.0,78.0,negative
+323,2009-08-11,The Philippine Economy: Facing Up to the Challenges,-0.5243689499390836,-0.5157182216644287,0.0,1.0,0.0,114.0,negative
+324,2009-07-15,Transforming Potential Into Reality,-0.5230081029220363,-0.5186203718185425,0.0,1.0,0.0,62.0,negative
+325,2009-07-14,The BSP and Its Partners: Standing Up to the Global Challenges Today,-0.5147388472771708,-0.49983835220336914,0.0,1.0,0.0,43.0,negative
+326,2009-07-14,RBAP: Sustaining Reforms for an Economically Vibrant Countryside,-0.5012393842221862,-0.4931052625179291,0.0,1.0,0.0,45.0,negative
+327,2009-07-03,BSP@16: Riding Out the Winds of Change and Weathering the Turbulence,-0.5257951553477304,-0.5176911354064941,0.0,1.0,0.0,97.0,negative
+328,2009-07-03,"Developing a New Generation of Savers with the Program ""Banking on Your Future""",-0.5103864261598298,-0.5105792284011841,0.0,1.0,0.0,34.0,negative
+329,2009-06-19,Message,-0.4876074814181255,-0.5031370520591736,0.0,1.0,0.0,54.0,negative
+330,2009-05-15,Banking on Governance for Growth and Stability,-0.5163447821349428,-0.5062226057052612,0.0,1.0,0.0,81.0,negative
+331,2009-05-12,Microfinance: The Bright Spot in these Challenging Times,-0.5195239764897196,-0.5075116157531738,0.0,1.0,0.0,121.0,negative
+332,2009-04-14,Philippines: Navigating Through The Global Financial Turmoil,-0.5234591559452169,-0.521060585975647,0.0,1.0,0.0,124.0,negative
+333,2009-03-31,Macroeconomic Policy Management in Challenging Times,-0.5174229215296713,-0.515557050704956,0.0,1.0,0.0,124.0,negative
+334,2009-03-30,Opening Remarks,-0.5177959454542586,-0.5093566179275513,0.0,1.0,0.0,68.0,negative
+335,2009-03-25,Financial Stability Through Collaboration and Understanding,-0.497839690302294,-0.4895728826522827,0.0,1.0,0.0,81.0,negative
+336,2009-03-18,Overcoming Global Challenges: Policies for Resilience and Stability,-0.5162655339452247,-0.5091123580932617,0.0,1.0,0.0,112.0,negative
+337,2009-03-13,"Thrift Banks: Moving Forward Through Responsive, Responsible Banking",-0.519245174765015,-0.5158828496932983,0.0,1.0,0.0,77.0,negative
+338,2009-03-03,The Crisis in Perspective: Is There Really Cause for Alarm?,-0.5171322922522266,-0.5131595134735107,0.0,1.0,0.0,69.0,negative
+339,2009-03-02,Sustaining Growth Through Better Access to Credit,-0.5268525962435872,-0.5146214962005615,0.0,1.0,0.0,57.0,negative
+340,2009-02-27,Accelerating Countryside Development Thru Rural Banks,-0.5088341232329279,-0.5095265507698059,0.0,1.0,0.0,39.0,negative
+341,2009-02-26,Are We Ready to Cross Our Rubicon?,-0.5300648661878888,-0.524559497833252,0.0,1.0,0.0,36.0,negative
+342,2009-02-25,Challenges and Opportunities in a Global Crisis,-0.5225841750225061,-0.5126286149024963,0.0,1.0,0.0,96.0,negative
+343,2009-02-11,The Philippine Economy: Building Resilience in a Time of Uncertainty,-0.5184286032566544,-0.5110505819320679,0.0,1.0,0.0,135.0,negative
+344,2009-02-02,Antecedents of the Global Financial Crisis: A Multi-Factorial Phenomenon,-0.5182391046959177,-0.5055526494979858,0.0,1.0,0.0,147.0,negative
+345,2009-01-28,Nurturing Successful & Ethical Finance Professionals,-0.5161659054983169,-0.507861316204071,0.0,1.0,0.0,61.0,negative
+346,2009-01-26,Career Executives in Government: Making Lives Better for Filipinos,-0.5351533463570123,-0.5298750996589661,0.0,1.0,0.0,71.0,negative
+347,2009-01-16,Security Management: A Challenging Balancing Act,-0.510794397427025,-0.5049890279769897,0.0,1.0,0.0,23.0,negative
+348,2009-01-16,Sustaining Partnerships in a Year of Challenges,-0.530005105523887,-0.5316812992095947,0.0,1.0,0.0,63.0,negative
+349,2009-01-08,Preparing for What Lies Ahead,-0.5304739110266413,-0.5287532210350037,0.0,1.0,0.0,118.0,negative
+350,2009-01-06,"Statement of Governor Amando M. Tetangco, Jr.",-0.5214733531458453,-0.5123001337051392,0.0,1.0,0.0,52.0,negative
+351,2008-12-17,Governor's Remarks for the BSP Christmas Party,-0.5212657866577654,-0.5202203989028931,0.0,1.0,0.0,87.0,negative
+352,2008-11-19,Keynote Address,-0.504030763509049,-0.49721160531044006,0.0,1.0,0.0,40.0,negative
+353,2008-11-14,Welcome Remarks,-0.5135850158717989,-0.5010489225387573,0.0,1.0,0.0,84.0,negative
+354,2008-10-29,The Philippine Economy: Building Resilience in a Time of Uncertainty,-0.5221276681217496,-0.5120988488197327,0.0,1.0,0.0,116.0,negative
+355,2008-10-07,Message,-0.513117305563037,-0.49994245171546936,0.0,1.0,0.0,26.0,negative
+356,2008-10-03,Message,-0.5138924723151632,-0.5124802589416504,0.0,1.0,0.0,45.0,negative
+357,2008-10-03,Recent Market Developments: Impact on Banking and Finance Sector,-0.5239514618723882,-0.5147329568862915,0.0,1.0,0.0,109.0,negative
+358,2008-09-29,Recent Market Volatility: Implication for Philippine Economy and Banking System,-0.4954966411609053,-0.48697030544281006,0.0,1.0,0.0,116.0,negative
+359,2008-09-17,The Philippines: Addressing the Challenges. Staying the Course,-0.5241015145272919,-0.5123440027236938,0.0,1.0,0.0,86.0,negative
+360,2008-09-12,Strengthening Our Fight Against Money Laundering & Terrorist Financing,-0.5134691395618359,-0.5092167854309082,0.0,1.0,0.0,48.0,negative
+361,2008-08-27,The Credit Surety Fund: Sustaining Economic Growth Through Increased Credit Flows,-0.47966353357040964,-0.485418438911438,0.0,1.0,0.0,32.0,negative
+362,2008-08-23,Closing Remarks,-0.5209876650122717,-0.5147984623908997,0.0,1.0,0.0,52.0,negative
+363,2008-07-24,Building a Stronger Economy Through Microfinance,-0.5052041078297272,-0.501354455947876,0.0,1.0,0.0,62.0,negative
+364,2008-07-23,Remarks,-0.5192568774085131,-0.5134111046791077,0.0,1.0,0.0,76.0,negative
+365,2008-07-15,Turning Challenges into Opportunities: The Key to Sustainable Growth,-0.5278341823655993,-0.5263820886611938,0.0,1.0,0.0,65.0,negative
+366,2008-07-11,Keynote Address,-0.513519171719972,-0.508917510509491,0.0,1.0,0.0,31.0,negative
+367,2008-07-08,Keynote Address,-0.5037665407087141,-0.5003312230110168,0.0,1.0,0.0,76.0,negative
+368,2008-07-03,15th Anniversary Remarks,-0.5189737690166688,-0.5180830359458923,0.0,1.0,0.0,63.0,negative
+369,2008-07-03,Bangko Sentral ng Pilipinas @15,-0.5373176918603454,-0.5375896692276001,0.0,1.0,0.0,59.0,negative
+370,2008-05-13,Microentrepreneur of the Year (MOTY) Awards 2008 Launch,-0.501203484458266,-0.49686694145202637,0.0,1.0,0.0,34.0,negative
+371,2008-05-13,Housing Microfinance Product Launch,-0.4995048209831698,-0.4942898154258728,0.0,1.0,0.0,36.0,negative
+372,2008-03-26,RCBC: Banking on Emerging Corporates,-0.511274161263251,-0.5051902532577515,0.0,1.0,0.0,34.0,negative
+373,2008-03-25,Remarks,-0.5160185977586321,-0.5142227411270142,0.0,1.0,0.0,20.0,negative
+374,2008-02-27,On the Road to Sustaining Economic Stability and Growth,-0.5295778814499156,-0.5205984115600586,0.0,1.0,0.0,99.0,negative
+375,2008-02-13,Recent Economic Developments: Challenges and Policy Implications,-0.5302386642110591,-0.5169754028320312,0.0,1.0,0.0,97.0,negative
+376,2008-02-12,REMARKS FOR THE FOCAP FORUM,-0.5423591219796366,-0.5272578001022339,0.0,1.0,0.0,53.0,negative
+377,2008-02-11,The Philippines: MACROECONOMIC OUTLOOK FOR 2008,-0.5364214009394996,-0.5193604230880737,0.0,1.0,0.0,83.0,negative
+378,2008-01-30,Breakthroughs and Break Through,-0.5308754886960799,-0.5322908163070679,0.0,1.0,0.0,66.0,negative
+379,2008-01-15,Moving the Economy Forward to a Higher Growth Path,-0.527463733354988,-0.517179012298584,0.0,1.0,0.0,56.0,negative
+380,2008-01-08,BSP Expectations For Business and the Economy,-0.5444187145677322,-0.5307273268699646,0.0,1.0,0.0,41.0,negative
+381,2008-01-07,The Bangko Sentral ng Pilipinas in 2008 - One Dynamic Team (New Year's Message to BSPers),-0.5213615595030253,-0.5320159792900085,0.0,1.0,0.0,30.0,negative
+382,2008-01-03,Pushing Ahead Through Headwinds,-0.5336460830017576,-0.5303792953491211,0.0,1.0,0.0,96.0,negative
+383,2007-10-09,Sustaining the Country's Economic Gains through Monetary Stability,-0.5227258411337095,-0.5061696767807007,0.0,1.0,0.0,98.0,negative
+384,2007-09-12,The Constellation of Monetary Challenges and Responses,-0.5196622943634375,-0.5165148973464966,0.0,1.0,0.0,51.0,negative
+385,2007-08-29,Signing of the MOA on the Interconnection of PDS Settlement Highway (PSH) and BSP PhilPaSS,-0.47990174557546245,-0.48118677735328674,0.0,1.0,0.0,13.0,negative
+386,2007-08-27,Promoting the Safety and Efficiency of the Financial System: A Steady Commitment to Reforms,-0.5115226439176205,-0.5066989660263062,0.0,1.0,0.0,91.0,negative
+387,2007-08-14,Providing Critical Support to Disaster-Striken Areas Through the Calamity Assistance Program,-0.511163643905236,-0.5120826363563538,0.0,1.0,0.0,15.0,negative
+388,2007-07-31,Strengthening the Bonds of Partnership for Better Education,-0.5105305410982147,-0.505953311920166,0.0,1.0,0.0,32.0,negative
+389,2007-07-31,BSP's Tulong Barya Para sa Gawad Kalinga,-0.49882760175882224,-0.5056512355804443,0.0,1.0,0.0,31.0,negative
+390,2007-07-27,Ensuring a Well-Trained Security Force,-0.5056530590778026,-0.5015870332717896,0.0,1.0,0.0,29.0,negative
+391,2007-07-25,The 2006 BSP Praise Awards: A HARVEST of EXCELLENCE,-0.49760625723799967,-0.495405912399292,0.0,1.0,0.0,23.0,negative
+392,2007-07-24,Strengthening the Foundation for Effective Governance,-0.5042094035086998,-0.4950298070907593,0.0,1.0,0.0,90.0,negative
+393,2007-07-23,Remarks,-0.5065069374453519,-0.5011741518974304,0.0,1.0,0.0,27.0,negative
+394,2007-07-20,2007 Awarding Ceremony for BSP Stakeholders,-0.5160349739062322,-0.5213381052017212,0.0,1.0,0.0,15.0,negative
+395,2007-07-20,Improving Lives Through Better Access to Credit,-0.5002075868255612,-0.5044339299201965,0.0,1.0,0.0,30.0,negative
+396,2007-07-20,Leading the Way Toward Growth and Development,-0.5008672315664117,-0.4974238872528076,0.0,1.0,0.0,23.0,negative
+397,2007-07-10,The ING-FINEX Search for CFO of the Year Award: A Search for Inspiring Leadership,-0.5069482888187374,-0.4908261001110077,0.0,1.0,0.0,25.0,negative
+398,2007-07-08,Keynote Address,-0.5113512425370169,-0.500307023525238,0.0,1.0,0.0,83.0,negative
+399,2007-07-04,2007 Awarding Ceremony for BSP Stakeholders,-0.5115069625233966,-0.5007724761962891,0.0,1.0,0.0,29.0,negative
+400,2007-07-03,The BSP @ 14: Moving with the Power of One in the Service of the Filipino People,-0.520206472073671,-0.5134463310241699,0.0,1.0,0.0,86.0,negative
+401,2007-07-03,Layon: Money as Vision of a Nation,-0.48346939363927816,-0.4984773099422455,0.0,1.0,0.0,23.0,negative
+402,2007-06-29,Global Awareness of the Philippine Market,-0.536865552239444,-0.5268853902816772,0.0,1.0,0.0,26.0,negative
+403,2007-06-14,Launching Program for the BSP e-Rediscounting System (ERS) in La Union,-0.49535922088623047,-0.5074729919433594,0.0,1.0,0.0,31.0,negative
+404,2007-06-13,RBAP-MABS: Providing Wider and Deeper Access to Microfinance,-0.5042674180395046,-0.5018479228019714,0.0,1.0,0.0,58.0,negative
+405,2007-06-06,Opening Remarks,-0.5123850389016508,-0.5046392679214478,0.0,1.0,0.0,39.0,negative
+406,2007-06-05,Keynote Address,-0.5116251993729518,-0.5025672912597656,0.0,1.0,0.0,50.0,negative
+407,2007-05-11,The 5th Microentrepreneur of the Year Awards,-0.5015412551543841,-0.5036972165107727,0.0,1.0,0.0,54.0,negative
+408,2007-04-19,Harnessing Credit for a Better Life for All,-0.5123767372897483,-0.5017675757408142,0.0,1.0,0.0,63.0,negative
+409,2007-04-12,Nurturing Financially Literate Filipinos,-0.5173866640764155,-0.5212390422821045,0.0,1.0,0.0,29.0,negative
+410,2007-03-30,Trust Reforms: Positioning the Business for Growth,-0.5218106303158886,-0.5116279125213623,0.0,1.0,0.0,86.0,negative
+411,2007-03-15,"Migration, Remittances, Economic Development and the Role of Banks",-0.505877125115434,-0.5049642324447632,0.0,1.0,0.0,38.0,negative
+412,2007-03-01,Remarks,-0.4859409717460987,-0.4943506717681885,0.0,1.0,0.0,64.0,negative
+413,2007-02-28,Fiscal and Debt Sustainability: Developments and Policy Implications,-0.5294853281119442,-0.5188201665878296,0.0,1.0,0.0,97.0,negative
+414,2007-02-26,Opening Remarks,-0.506557298406189,-0.5003187656402588,0.0,1.0,0.0,36.0,negative
+415,2007-02-21,Inspirational Message,-0.520573868248999,-0.5218930244445801,0.0,1.0,0.0,18.0,negative
+416,2007-02-20,A tipping point and a rising tide is lifting up the Philippine economy,-0.5483975274270277,-0.5467606782913208,0.0,1.0,0.0,23.0,negative
+417,2007-02-06,BSP & BMAP: Continuing Partnership for a Stronger Banking System,-0.5218026291968217,-0.5144835710525513,0.0,1.0,0.0,88.0,negative
+418,2007-01-16,The BSP and the Banking Community: A Partnership for a Better Year in 2007,-0.5285232031662512,-0.5299912691116333,0.0,1.0,0.0,62.0,negative
+419,2006-12-19,Delivered by Solidarity at the BSP: The Power of One,-0.5255786831048386,-0.5366015434265137,0.0,1.0,0.0,42.0,negative
+420,2006-12-15,Remarks,-0.5249015018594787,-0.5286252498626709,0.0,1.0,0.0,10.0,negative
+421,2006-12-06,Keynote Address,-0.5078354739075622,-0.48940378427505493,0.0,1.0,0.0,101.0,negative
+422,2006-12-05,Keynote Address,-0.498667125683808,-0.5011575222015381,0.0,1.0,0.0,15.0,negative
+423,2006-12-04,Opening Statement for the FOCAP Meeting,-0.520592876277253,-0.5076473951339722,0.0,1.0,0.0,39.0,negative
+424,2006-11-28,Keynote Address,-0.5376137344730448,-0.5279942154884338,0.0,1.0,0.0,69.0,negative
+425,2006-11-23,Strengthening Partnerships for a More Resilient Banking System,-0.5153892543487048,-0.5143235325813293,0.0,1.0,0.0,29.0,negative
+426,2006-08-04,Innovative And Efficient Delivery Channels For Banking Services,-0.5183443370890819,-0.5105088353157043,0.0,1.0,0.0,32.0,negative
+427,2006-06-20,Remarks,-0.5081153215687316,-0.5089761018753052,0.0,1.0,0.0,22.0,negative
+428,2006-06-20,Remarks,-0.515369150217052,-0.5175762176513672,0.0,1.0,0.0,15.0,negative
+429,2006-06-20,Bancnet and Expressnet Interconnection Unified ATM Network Infrastructure Nationwide,-0.4966775572226371,-0.4914952516555786,0.0,1.0,0.0,24.0,negative
+430,2006-06-18,Closing Remarks,-0.5312468988677197,-0.5333575010299683,0.0,1.0,0.0,50.0,negative
+431,2006-06-14,Opening Remarks,-0.523012893248192,-0.52427077293396,0.0,1.0,0.0,22.0,negative
+432,2006-06-13,Welcome remarks,-0.5018364340711982,-0.49915674328804016,0.0,1.0,0.0,27.0,negative
+433,2006-06-05,"Welcome Remarks For The Meeting On ""Restoring TheSierra Madre Range""",-0.5286215477751129,-0.5287129878997803,0.0,1.0,0.0,16.0,negative
+434,2006-06-01,Remarks,-0.5192437773875598,-0.5095639824867249,0.0,1.0,0.0,27.0,negative
+435,2006-05-19,A message for the Microfinance Sector,-0.5189926305540841,-0.5107627511024475,0.0,1.0,0.0,44.0,negative
+436,2006-05-17,The state of the Philippine Economy and Policy Directions of the Bangko Sentral ng Pilipinas,-0.5334256980726828,-0.5330480933189392,0.0,1.0,0.0,73.0,negative
+437,2006-05-08,Message,-0.5046909514148503,-0.5059995651245117,0.0,1.0,0.0,19.0,negative
+438,2006-03-29,Ushering the Philippine Financial Sector to Global Best Practices,-0.5043355918200285,-0.49916696548461914,0.0,1.0,0.0,81.0,negative
+439,2006-03-24,The Outlook for the Philippine Economy and Policy Directions in 2006,-0.5354774058616111,-0.5282872915267944,0.0,1.0,0.0,69.0,negative
+440,2006-03-17,Keynote address,-0.5134798849096183,-0.49862241744995117,0.0,1.0,0.0,84.0,negative
+441,2006-03-17,Transparency and Communication in Central Banking,-0.5064538246204926,-0.5005199909210205,0.0,1.0,0.0,70.0,negative
+442,2006-03-13,Outlook on the Country's Economic Condition and the Role of Information Technology to Uplift Economic Growth,-0.5196851261972768,-0.5121499300003052,0.0,1.0,0.0,67.0,negative
+443,2006-03-08,One Step Beyond: Making Ourselves Count for Others,-0.5188666938079728,-0.5168316960334778,0.0,1.0,0.0,38.0,negative
+444,2006-03-01,Towards a Shared Vision for Capital Market Reforms,-0.5063918972882122,-0.5033898949623108,0.0,1.0,0.0,58.0,negative
+445,2006-02-09,The Philippine Economy: Developments and Prospects,-0.5328915609060229,-0.5281393527984619,0.0,1.0,0.0,80.0,negative
+446,2006-02-03,Investor Protection and Market Discipline: A Common Goal,-0.525248146140009,-0.5142460465431213,0.0,1.0,0.0,28.0,negative
+447,2006-01-26,Working Together for a Better Nation,-0.5097761941993979,-0.505692720413208,0.0,1.0,0.0,64.0,negative
+448,2006-01-24,The Philippine Economy: The Continuing Challenge,-0.5276388123363931,-0.5216121077537537,0.0,1.0,0.0,92.0,negative
+449,2006-01-17,New Year Message 2006,-0.5047830320116299,-0.5154467225074768,0.0,1.0,0.0,30.0,negative
+450,2006-01-14,Turning Challenges into Opportunities,-0.5039007832710507,-0.5045062303543091,0.0,1.0,0.0,61.0,negative
+451,2006-01-05,"Philippine Economy: Recent Economic Developments, Outlook and Policy Directions for 2006; Making the Best of Times",-0.5269166039998512,-0.5211585164070129,0.0,1.0,0.0,96.0,negative
+452,2005-12-04,Welcome remarks,-0.5065341854820937,-0.5081088542938232,0.0,1.0,0.0,26.0,negative
+453,2005-11-25,Closing keynote address,-0.509597644286278,-0.5094555020332336,0.0,1.0,0.0,65.0,negative
+454,2005-11-24,Welcome Remarks,-0.529235526736304,-0.5282482504844666,0.0,1.0,0.0,16.0,negative
+455,2005-11-15,Remarks,-0.5197261169269272,-0.5136964321136475,0.0,1.0,0.0,18.0,negative
+456,2005-11-14,The BSP's Barya sa Pagkakawanggawa,-0.5306899240858043,-0.5302998423576355,0.0,1.0,0.0,47.0,negative
+457,2005-11-11,Accounting Reforms Toward Good Corporate Governance,-0.4998009752817766,-0.49403589963912964,0.0,1.0,0.0,54.0,negative
+458,2005-11-11,Banking for Sustainable Development Through a Socially-Responsible Financial Sector,-0.5043963528351104,-0.5017765164375305,0.0,1.0,0.0,94.0,negative
+459,2005-09-19,Stimulating the Growth of Microfinance in the Philippines,-0.5035682365758141,-0.49990177154541016,0.0,1.0,0.0,71.0,negative
+460,2005-08-23,Capital Market: A Cornerstone of BSP Financial Reform Agenda,-0.5174776480831188,-0.5089174509048462,0.0,1.0,0.0,73.0,negative
+461,2005-07-04,"Continuity in a Time of Change (Inaugural Speech of Governor Amando M. Tetangco, Jr.)",-0.5242335153991451,-0.5206116437911987,0.0,1.0,0.0,83.0,negative
+462,2005-03-04,A Perspective on Reforms for Sustainable Economic Growth,-0.5200021710420945,-0.5097691416740417,0.0,1.0,0.0,69.0,negative
+463,2005-02-26,Welcome Remarks,-0.49773986093830647,-0.4911671578884125,0.0,1.0,0.0,25.0,negative
+464,2005-02-21,Opening Remarks,-0.5127034383633781,-0.5112084746360779,0.0,1.0,0.0,22.0,negative
+465,2005-02-17,Taking Up the Challenge,-0.5142651822748063,-0.510794997215271,0.0,1.0,0.0,80.0,negative
+466,2005-02-14,"Keeping Up the Tempo of Progress in the Year of the Rooster,",-0.523844900403836,-0.5153597593307495,0.0,1.0,0.0,57.0,negative
+467,2005-02-05,Opening Remarks,-0.518913172294924,-0.5141246914863586,0.0,1.0,0.0,73.0,negative
+468,2005-01-21,Opening Remarks,-0.5152214070948044,-0.5038918256759644,0.0,1.0,0.0,18.0,negative
+469,2005-01-21,Closing Remarks,-0.5191508461730648,-0.5334214568138123,0.0,1.0,0.0,19.0,negative
+470,2005-01-19,Deepening Domestic Financial Reforms,-0.5191296399630049,-0.5080861449241638,0.0,1.0,0.0,78.0,negative
+471,2005-01-18,New Year Message 2005,-0.5179368249233695,-0.5104076862335205,0.0,1.0,0.0,66.0,negative
+472,2005-01-17,Keynote Address,-0.4837764345955651,-0.4791983664035797,0.0,1.0,0.0,25.0,negative
+473,2005-01-10,Closing Remarks,-0.5200779935532645,-0.5079252123832703,0.0,1.0,0.0,28.0,negative
+474,2005-01-10,Opening Remarks,-0.5269322766340928,-0.5168329477310181,0.0,1.0,0.0,25.0,negative
+475,2004-11-23,BSP-BAP Partnership: A Vote for Continuing Innovation,-0.517268351446067,-0.5053892135620117,0.0,1.0,0.0,26.0,negative
+476,2004-11-18,Opening Remarks,-0.5099233900229942,-0.4939441680908203,0.0,1.0,0.0,36.0,negative
+477,2004-11-13,Building a Coalition of the Willing for a Progressive Philippine Financial System,-0.5093074308160277,-0.5068820714950562,0.0,1.0,0.0,91.0,negative
+478,2004-10-29,Opening Remarks,-0.5268652268742148,-0.5248337984085083,0.0,1.0,0.0,17.0,negative
+479,2004-10-25,Welcome Remarks,-0.5413683620483979,-0.5446396470069885,0.0,1.0,0.0,22.0,negative
+480,2004-08-26,Raising the Bar on Consumer Banking Service,-0.4963393227530123,-0.4864473044872284,0.0,1.0,0.0,23.0,negative
+481,2004-08-25,Keynote Address,-0.4954419366531771,-0.4948751628398895,0.0,1.0,0.0,55.0,negative
+482,2004-07-30,Sustaining Macroeconomic Stability Through Fiscal Consolidation,-0.5397474174979,-0.5390853881835938,0.0,1.0,0.0,62.0,negative
+483,2004-07-29,Housing as Catalyst for Economic Recovery,-0.5131332019420835,-0.5121169090270996,0.0,1.0,0.0,84.0,negative
+484,2004-07-28,Fostering Economic Recovery Through Capital Market Development,-0.5181808100908624,-0.5149581432342529,0.0,1.0,0.0,82.0,negative
+485,2004-07-26,Message,-0.49955360389891124,-0.5111165642738342,0.0,1.0,0.0,18.0,negative
+486,2004-07-21,Strong Corporate Governance - Banks' Passport to Basel 2,-0.4957973436011126,-0.4894006848335266,0.0,1.0,0.0,110.0,negative
+487,2004-07-21,Closing Remarks,-0.5205705922082282,-0.5302224159240723,0.0,1.0,0.0,24.0,negative
+488,2004-07-07,Message,-0.5170660394013391,-0.5158411264419556,0.0,1.0,0.0,31.0,negative
+489,2004-07-05,Strengthening the Financial System Through a World-Class Payments and Settlements System,-0.5205440140830145,-0.5064077377319336,0.0,1.0,0.0,37.0,negative
+490,2004-07-05,FSF: Strengthening the Philippine Financial System,-0.5129999609109832,-0.5113329887390137,0.0,1.0,0.0,38.0,negative
+491,2004-07-05,Mind the Gap,-0.5113616568666782,-0.5108904838562012,0.0,1.0,0.0,40.0,negative
+492,2004-07-05,11th BSP Anniversary Message,-0.5250406765644896,-0.5206766724586487,0.0,1.0,0.0,100.0,negative
+493,2004-06-30,The Rural Banking System: Recent Developments and Key Challenges,-0.5003775116506514,-0.5010700225830078,0.0,1.0,0.0,53.0,negative
+494,2004-06-16,Opening Statement for FOCAP Meeting,-0.5311325683967391,-0.5258387923240662,0.0,1.0,0.0,14.0,negative
+495,2004-06-16,The Financial System in Post-Election Philippines,-0.5355645549698391,-0.5347366333007812,0.0,1.0,0.0,74.0,negative
+496,2004-06-10,Inspirational Message,-0.5157951566552871,-0.5121119022369385,0.0,1.0,0.0,48.0,negative
+497,2004-06-09,Inspirational Message,-0.5375273739048045,-0.5347695350646973,0.0,1.0,0.0,59.0,negative
+498,2004-06-04,The 2nd Citibank Microentrepreneur of the Year Award,-0.487690809723955,-0.4915337860584259,0.0,1.0,0.0,60.0,negative
+499,2004-06-04,DENR and BSP: Forging an Enduring Partnership,-0.5021740942086366,-0.5189685821533203,0.0,1.0,0.0,20.0,negative
+500,2004-06-01,Welcome Remarks,-0.5400991193018854,-0.5360494256019592,0.0,1.0,0.0,15.0,negative
+501,2004-05-28,Inspirational Message,-0.5235510665005532,-0.5214527249336243,0.0,1.0,0.0,25.0,negative
+502,2004-05-20,Remarks,-0.5174681305375873,-0.5207966566085815,0.0,1.0,0.0,22.0,negative
+503,2004-05-13,Corporate Governance Reforms in the Banking Sector,-0.4960651925450529,-0.49004146456718445,0.0,1.0,0.0,49.0,negative
+504,2004-04-19,Opening Remarks,-0.5061552739824187,-0.503068208694458,0.0,1.0,0.0,29.0,negative
+505,2004-04-16,Some Thoughts on the Budget Deficit,-0.5259759760300814,-0.5203341841697693,0.0,1.0,0.0,104.0,negative
+506,2004-04-14,Closing Remarks,-0.5225648156483658,-0.5138484835624695,0.0,1.0,0.0,21.0,negative
+507,2004-04-13,HSBC: Keeping Faith in the Philippines and its Potentials,-0.5299977386419752,-0.5163631439208984,0.0,1.0,0.0,22.0,negative
+508,2004-04-02,Remarks,-0.5205454203196698,-0.5195760130882263,0.0,1.0,0.0,49.0,negative
+509,2004-03-31,PRAISE: Excellence Beyond Expectations,-0.5114431004971266,-0.516653835773468,0.0,1.0,0.0,39.0,negative
+510,2004-03-30,Response,-0.5328673084517969,-0.5185091495513916,0.0,1.0,0.0,23.0,negative
+511,2004-03-29,Closing Remarks,-0.5221421668773096,-0.5162123441696167,0.0,1.0,0.0,21.0,negative
+512,2004-03-22,Banking Reforms and the Development of the Domestic Capital Market,-0.5130872894006017,-0.5107534527778625,0.0,1.0,0.0,76.0,negative
+513,2004-03-11,The State of the Thrift Banking Industry and its Future,-0.5086820551350664,-0.5029058456420898,0.0,1.0,0.0,71.0,negative
+514,2004-03-04,Message,-0.5110222175242795,-0.5068696737289429,0.0,1.0,0.0,23.0,negative
+515,2004-02-18,Promoting Microfinance: The Role of the Central Bank,-0.5031577996280198,-0.495950847864151,0.0,1.0,0.0,65.0,negative
+516,2004-02-17,E-Banking Climate in the Philippines,-0.5068411193265815,-0.5033817291259766,0.0,1.0,0.0,57.0,negative
+517,2004-01-30,Remarks,-0.5322863925489036,-0.5242179036140442,0.0,1.0,0.0,13.0,negative
+518,2004-01-28,Remarks,-0.5032972134451248,-0.50015789270401,0.0,1.0,0.0,37.0,negative
+519,2004-01-07,Remarks,-0.5128384684570707,-0.5199277400970459,0.0,1.0,0.0,30.0,negative
+520,2003-12-18,Christmas Message,-0.5340704057552961,-0.5348237752914429,0.0,1.0,0.0,25.0,negative
+521,2003-12-15,Payment Systems Reforms and Anti-Money Laundering Initiatives,-0.49923252955687747,-0.4968456029891968,0.0,1.0,0.0,48.0,negative
+522,2003-12-03,Coming Home to Bangko Sentral ng Pilipinas,-0.511294938321677,-0.519740104675293,0.0,1.0,0.0,45.0,negative
+523,2003-11-30,Regional Initiatives in Developing the Regional Bond Market,-0.5165978298982786,-0.5086743831634521,0.0,1.0,0.0,66.0,negative
+524,2003-11-25,Remarks,-0.5223189905441596,-0.5234395265579224,0.0,1.0,0.0,19.0,negative
+525,2003-11-21,Strengthening Risk Management in Philippine Banking,-0.5049340691225541,-0.5003966689109802,0.0,1.0,0.0,72.0,negative
+526,2003-11-19,Closing Remarks,-0.5029513627588323,-0.4991205632686615,0.0,1.0,0.0,33.0,negative
+527,2003-11-14,Inspirational Message,-0.49757520682614403,-0.5078416466712952,0.0,1.0,0.0,29.0,negative
+528,2003-11-13,Remarks,-0.5250420971836385,-0.5183476805686951,0.0,1.0,0.0,56.0,negative
+529,2003-09-15,Keeping the Public Trust,-0.5064705844758466,-0.5009533166885376,0.0,1.0,0.0,28.0,negative
+530,2003-09-12,Closing Remarks,-0.5268632724219598,-0.5148884057998657,0.0,1.0,0.0,32.0,negative
+531,2003-09-11,Opening Remarks,-0.5199929645058999,-0.5094395875930786,0.0,1.0,0.0,33.0,negative
+532,2003-09-10,Opening Remarks,-0.5268309395497953,-0.5189613103866577,0.0,1.0,0.0,31.0,negative
+533,2003-09-05,Building Capabilities Through MABS Service Providers,-0.4981976853262994,-0.49939867854118347,0.0,1.0,0.0,27.0,negative
+534,2003-08-28,Keeping Faith in the Face of Adversity,-0.49668908285899505,-0.50075763463974,0.0,1.0,0.0,61.0,negative
+535,2003-08-27,Presentation of Megalink's Electronic Settlement Facility,-0.5034892879497825,-0.49766647815704346,0.0,1.0,0.0,23.0,negative
+536,2003-07-24,PRIME-ing the Local Banking Industry,-0.5164967489569154,-0.5078988671302795,0.0,1.0,0.0,30.0,negative
+537,2003-07-23,Message,-0.5014336076604218,-0.5035144090652466,0.0,1.0,0.0,40.0,negative
+538,2003-07-21,BSP PRAISE Awardees - Raising the Bar for Excellence,-0.5069227733718815,-0.5118647217750549,0.0,1.0,0.0,28.0,negative
+539,2003-07-16,Remarks,-0.5061172846431438,-0.5029059648513794,0.0,1.0,0.0,20.0,negative
+540,2003-07-07,Towards a Resilient Rural Banking Industry,-0.5057732323589532,-0.5029656291007996,0.0,1.0,0.0,55.0,negative
+541,2003-07-04,Message,-0.5244544822141665,-0.5152066946029663,0.0,1.0,0.0,35.0,negative
+542,2003-07-03,Official Launch and Inauguration of The PICC Forum,-0.5059017987921834,-0.4968397319316864,0.0,1.0,0.0,20.0,negative
+543,2003-07-03,"Recent Economic Developments, Prospects and BSP Initiatives",-0.5183753491259735,-0.5220935344696045,0.0,1.0,0.0,69.0,negative
+544,2003-07-03,Message,-0.5081952014940894,-0.5103782415390015,0.0,1.0,0.0,41.0,negative
+545,2003-07-03,Bangko Sentral ng Pilipinas @ 10,-0.5160150191611012,-0.5198236703872681,0.0,1.0,0.0,56.0,negative
+546,2003-06-17,The Challenge of Being the Governor of Bangko Sentral ng Pilipinas,-0.5217216727943379,-0.5069260597229004,0.0,1.0,0.0,86.0,negative
+547,2003-01-13,Strengthening Links with Our Partners at PNP,-0.5257799021612768,-0.522942066192627,0.0,1.0,0.0,108.0,negative
+548,2003-01-10,New Year's Message 2003,-0.5281418697717034,-0.526492714881897,0.0,1.0,0.0,48.0,negative
+549,2002-12-16,BSP and USAID: Joining Forces in the Fight Against Poverty,-0.5031195871035258,-0.5041382312774658,0.0,1.0,0.0,18.0,negative
+550,2002-12-12,Joining Hands for a World-Class Philippine Payment System (PhilPass),-0.5191576059766718,-0.504489541053772,0.0,1.0,0.0,29.0,negative
+551,2002-11-19,The First Citibank Microentreprenuer of the Year Award,-0.49992440141359784,-0.4927682876586914,0.0,1.0,0.0,52.0,negative
+552,2002-11-14,Welcome Remarks,-0.5308738420991337,-0.5393269062042236,0.0,1.0,0.0,7.0,negative
+553,2002-11-08,Closing Remarks,-0.5021824211174366,-0.5023444890975952,0.0,1.0,0.0,37.0,negative
+554,2002-11-07,CFAs: Developing a Culture that Rewards Ethical Behavior,-0.5202002157086552,-0.5201385021209717,0.0,1.0,0.0,52.0,negative
+555,2002-10-25,Closing Remarks,-0.501688172419866,-0.5044180154800415,0.0,1.0,0.0,22.0,negative
+556,2002-10-24,Opening Remarks,-0.5178231528024857,-0.5347695350646973,0.0,1.0,0.0,23.0,negative
+557,2002-09-11,Welcome Remarks,-0.5050628662526191,-0.5026907920837402,0.0,1.0,0.0,33.0,negative
+558,2002-09-06,A Monetary Policy Framework to Support Economic Recovery and Maintain Price Stability,-0.5248802660626529,-0.522573709487915,0.0,1.0,0.0,111.0,negative
+559,2002-09-06,Taking the High Road,-0.49459835334541496,-0.4954395294189453,0.0,1.0,0.0,102.0,negative
+560,2002-08-29,Building Local Economies Through Rural Banks,-0.5060456688510986,-0.5023235082626343,0.0,1.0,0.0,79.0,negative
+561,2002-08-27,Bankers and Chambers: Creating Good Synergy for the Country,-0.5193199812251136,-0.5172392129898071,0.0,1.0,0.0,59.0,negative
+562,2002-08-07,Championing Corporate Governance in Banking,-0.5162546815863555,-0.4995734691619873,0.0,1.0,0.0,44.0,negative
+563,2002-07-23,A Salute to Prime Assets of the Bangko Sentral ng Pilipinas,-0.5143790115046021,-0.5184410214424133,0.0,1.0,0.0,66.0,negative
+564,2002-07-18,Message,-0.5218383993127663,-0.5199992060661316,0.0,1.0,0.0,31.0,negative
+565,2002-07-17,Team Philippines: Sustaining Growth for the Long-Term,-0.5211125086516206,-0.5167654752731323,0.0,1.0,0.0,73.0,negative
+566,2002-07-03,BSP at 9: High Scores for Price and Banking Stability,-0.5087344255564892,-0.5153078436851501,0.0,1.0,0.0,85.0,negative
+567,2002-07-01,Remarks,-0.497541050707537,-0.4855306148529053,0.0,1.0,0.0,10.0,negative
+568,2002-05-22,Stronger RP-U.S. Links Against Money Laundering,-0.5259537728365786,-0.5363747477531433,0.0,1.0,0.0,12.0,negative
+569,2002-05-14,Strengthening Links with AMLC Partners,-0.507251935014465,-0.5071427226066589,0.0,1.0,0.0,24.0,negative
+570,2002-05-05,Closing Remarks,-0.5194768247726772,-0.5259107947349548,0.0,1.0,0.0,13.0,negative
+571,2002-05-03,Opening Remarks,-0.5112538523172616,-0.5064356327056885,0.0,1.0,0.0,18.0,negative
+572,2002-04-26,Speech,-0.5269522129395686,-0.526542067527771,0.0,1.0,0.0,53.0,negative
+573,2002-04-12,Opening Remarks,-0.5309918377962377,-0.5369012951850891,0.0,1.0,0.0,20.0,negative
+574,2002-04-03,Message,-0.524308966684945,-0.5215678215026855,0.0,1.0,0.0,6.0,negative
+575,2002-03-26,Remarks,-0.5116889702402195,-0.5074528455734253,0.0,1.0,0.0,41.0,negative
+576,2002-03-25,Remarks,-0.49026887180515033,-0.4897356331348419,0.0,1.0,0.0,49.0,negative
+577,2001-12-10,Looking Beyond R.A. 9160,-0.5040150613559152,-0.49003931879997253,0.0,1.0,0.0,42.0,negative
+578,2001-12-04,Working Towards a Revitalized Banking Industry,-0.5099754956160061,-0.5017024278640747,0.0,1.0,0.0,99.0,negative
+579,2001-11-08,Remarks,-0.5041264998222178,-0.5109044313430786,0.0,1.0,0.0,11.0,negative
+580,2001-11-07,Remarks,-0.5199864388600992,-0.519952118396759,0.0,1.0,0.0,79.0,negative
+581,2001-10-16,The Role of Communications in Times of Economic Uncertainty,-0.5250233918888492,-0.5247541666030884,0.0,1.0,0.0,93.0,negative
+582,2001-10-16,Effects of the Anti-Money Laundering Law on the Banking And Financial System,-0.5067544538636388,-0.5029408931732178,0.0,1.0,0.0,74.0,negative
+583,2001-10-06,Keynote Address,-0.5149672828089387,-0.518768846988678,0.0,1.0,0.0,41.0,negative
+584,2001-10-05,Republic Act 9160 in Perspective,-0.49099042027427864,-0.48347359895706177,0.0,1.0,0.0,64.0,negative
+585,2001-09-10,Microfinance: An Opportunity for the Banking System,-0.5005081231844746,-0.4988626539707184,0.0,1.0,0.0,67.0,negative
+586,2001-09-05,"The Philippine Economy: Monetary, External and",-0.5230672095641162,-0.5194340348243713,0.0,1.0,0.0,80.0,negative
+587,2001-09-05,Anti-Money Laundering Law: A Work in Progress,-0.5107616821588096,-0.4982670843601227,0.0,1.0,0.0,55.0,negative
+588,2001-09-04,Message,-0.4497101240036056,-0.451033353805542,0.0,1.0,0.0,6.0,negative
+589,2001-08-31,Rural Banks: Pillars in the Development of Local Economies,-0.5177043157062972,-0.5077556371688843,0.0,1.0,0.0,78.0,negative
+590,2001-08-29,Towards Innovation in the Rural Banking Industry,-0.5153778671696999,-0.505325436592102,0.0,1.0,0.0,60.0,negative
+591,2001-08-24,Speech,-0.5389658451399824,-0.5374914407730103,0.0,1.0,0.0,54.0,negative
+592,2001-08-09,The BSP: Ensuring the Proper Environment for Sustainable Growth,-0.530461606730478,-0.5314977169036865,0.0,1.0,0.0,67.0,negative
+593,2001-08-06,Remarks,-0.5139831281755194,-0.521915078163147,0.0,1.0,0.0,34.0,negative
+594,2001-07-31,BSP Supports Global Campaign Against Money Laundering,-0.5020644677501751,-0.5049569606781006,0.0,1.0,0.0,49.0,negative
+595,2001-07-25,Remarks on Signing of Syndicated Notes Facility Agreement,-0.5181153606900499,-0.5057262778282166,0.0,1.0,0.0,14.0,negative
+596,2001-07-18,Moving Towards Bank Excellent and Financial Stability in the 21st Century,-0.5068627632717018,-0.5003278255462646,0.0,1.0,0.0,68.0,negative
+597,2001-07-13,Monument More Enduring Than Bronze,-0.5010297786353046,-0.506471574306488,0.0,1.0,0.0,57.0,negative
+598,2001-07-03,Anniversary Message,-0.5261246684628228,-0.5290915369987488,0.0,1.0,0.0,59.0,negative
+599,2001-06-29,The Role of the Philippine Banking Sector in the Promotion of Sustainable Development,-0.5151888201113809,-0.5088268518447876,0.0,1.0,0.0,36.0,negative
+600,2001-06-25,Opening Statement,-0.5215338757437988,-0.5208806395530701,0.0,1.0,0.0,36.0,negative
+601,2001-06-20,Closing Address,-0.5028965439359446,-0.5084004402160645,0.0,1.0,0.0,25.0,negative
+602,2001-05-25,Laying the Foundation for Higher Gear,-0.5074879120272794,-0.5007678270339966,0.0,1.0,0.0,75.0,negative
+603,2001-05-17,Policy Thrusts and Prospects in an Uncertain Global Economic Environment,-0.52181853392008,-0.5164511203765869,0.0,1.0,0.0,96.0,negative
+604,2001-05-08,An Assessment of Philippine Compliance with International Standards in Banking,-0.5277634109442051,-0.5160953998565674,0.0,1.0,0.0,36.0,negative
+605,2001-05-08,"Philippines: Monetary Sector, External Sector and the Financial System",-0.5183214455430257,-0.5120489597320557,0.0,1.0,0.0,94.0,negative
+606,2001-04-26,Sustaining Economic Recovery Through Sound Monetary Policy,-0.5192811383232886,-0.5185915231704712,0.0,1.0,0.0,55.0,negative
+607,2001-04-25,Ensuring Sustainability of Economic Development,-0.5266138887555957,-0.5202912092208862,0.0,1.0,0.0,51.0,negative
+608,2001-04-20,Credit Management in the New Economy,-0.5078158198176204,-0.5033224821090698,0.0,1.0,0.0,60.0,negative
+609,2001-04-19,Welcome Remarks,-0.5125212513397788,-0.5124053955078125,0.0,1.0,0.0,15.0,negative
+610,2001-04-17,Promoting the Growth and Stability of the Banking System,-0.5160790394106344,-0.5031729340553284,0.0,1.0,0.0,79.0,negative
+611,2001-03-29,Keynote Address,-0.5214270671753034,-0.5154845714569092,0.0,1.0,0.0,46.0,negative
+612,2001-03-23,Recent Developments in the Philippine Economy,-0.5260935720777319,-0.5208982825279236,0.0,1.0,0.0,67.0,negative
+613,2001-03-16,Outlook for Monetary and Banking Policies in the Philippines,-0.5208855498434887,-0.5136364102363586,0.0,1.0,0.0,83.0,negative
+614,2001-03-07,Moving Forward with Monetary Policy in 2001,-0.5123755233010077,-0.5085949897766113,0.0,1.0,0.0,93.0,negative
+615,2001-03-07,Opening Statement,-0.5257684118066144,-0.5233404636383057,0.0,1.0,0.0,55.0,negative
+616,2001-02-26,Opening Remarks,-0.5140139317386108,-0.5074445605278015,0.0,1.0,0.0,43.0,negative
+617,2001-02-23,Closing Remarks,-0.49983539482074213,-0.4953519105911255,0.0,1.0,0.0,23.0,negative
+618,2001-02-01,Key Emerging Economies Drive to Participate in the Global Markets - What Role for the Financial Services Industry in the Philippines,-0.5095213154547437,-0.4987451136112213,0.0,1.0,0.0,57.0,negative
+619,2001-01-22,Philippines: Recent Economic Developments and Outlook,-0.5288561775387449,-0.5175946950912476,0.0,1.0,0.0,78.0,negative
+620,2001-01-05,Year 2000: A Tale of Two Stories,-0.519329464852029,-0.5082995891571045,0.0,1.0,0.0,30.0,negative
+621,2001-01-04,"he Philippine Economy: Recent Developments, Policy Directions and Outlook for 2001",-0.5276289437241928,-0.5229564905166626,0.0,1.0,0.0,86.0,negative
+622,2000-11-20,Moving The Financial Markets Forward,-0.5096676895953947,-0.5049023628234863,0.0,1.0,0.0,80.0,negative
+623,2000-11-06,Providing Support to the Corporate Sector,-0.5191973300738877,-0.5155741572380066,0.0,1.0,0.0,70.0,negative
+624,2000-10-31,The Near-Term prospects for the Philippine Economy,-0.5228980518980131,-0.5215034484863281,0.0,1.0,0.0,52.0,negative
+625,2000-10-30,An Update on the Monetary Situation,-0.5232354236420275,-0.5186680555343628,0.0,1.0,0.0,65.0,negative
+626,2000-10-26,An Update on the Foreign Exchange Situation,-0.5188810503210074,-0.5089690685272217,0.0,1.0,0.0,65.0,negative
+627,2000-10-17,Recent Developments and Directions for the Philippine Economy and Banking System,-0.5150460776356957,-0.5126831531524658,0.0,1.0,0.0,70.0,negative
+628,2000-09-19,ome Thoughts on the Prospects for Asian Economic Cooperation,-0.5164855722386823,-0.5099635124206543,0.0,1.0,0.0,76.0,negative
+629,2000-09-06,The Philippines: Recent Economic Development and Policy Thrusts,-0.5309632740047462,-0.5165188312530518,0.0,1.0,0.0,71.0,negative
+630,2000-08-28,Confidence in the Financial System: How Do We Protect Our Investments?,-0.5185612096704356,-0.5116589069366455,0.0,1.0,0.0,77.0,negative
+631,2000-08-07,"Shangri-La Hotel, Makati City",-0.5339341982748177,-0.5294287800788879,0.0,1.0,0.0,47.0,negative
+632,2000-07-07,Closing Address: SEACEN Workshop on Concepts and Measurements of Core Inflation and Inflation Forecasting,-0.5154471960026404,-0.5152446627616882,0.0,1.0,0.0,27.0,negative
+633,2000-07-04,Keynote Speech,-0.5158175306352555,-0.5151622295379639,0.0,1.0,0.0,42.0,negative
+634,2000-07-03,The BSP in the New Millennium,-0.5235940982583421,-0.5162867307662964,0.0,1.0,0.0,46.0,negative
+635,2000-07-03,BSP Dividend Remittance fir 1999: P2.97 Billion,-0.52199532485938,-0.5226465463638306,0.0,1.0,0.0,25.0,negative
+636,2000-06-23,The Philippines: Recent Economic Developments,-0.532656951891826,-0.5228692889213562,0.0,1.0,0.0,86.0,negative
+637,2000-06-14,Speaking Notes,-0.5149911468410316,-0.5088189840316772,0.0,1.0,0.0,56.0,negative
+638,2000-06-01,EIU Presentation,-0.5306329564584127,-0.529532253742218,0.0,1.0,0.0,83.0,negative
+639,2000-05-29,Open Conference on Corporate Governance,-0.49979950827133807,-0.49555230140686035,0.0,1.0,0.0,41.0,negative
+640,2000-04-28,A REGULATOR'S PERSPECTIVE ON BANK CONSOLIDATION,-0.5043662743525462,-0.4990940988063812,0.0,1.0,0.0,68.0,negative
+641,2000-04-06,The Bangko Sentral and the Economy's Move Toward Broad-Based Growth,-0.5303034670717127,-0.5316421985626221,0.0,1.0,0.0,24.0,negative
+642,2000-03-30,THE PHILIPPINE ECONOMY: GEARING UP FOR SUSTAINED AND BROAD-BASED GROWTH,-0.5265863742252537,-0.5173352956771851,0.0,1.0,0.0,79.0,negative
+643,2000-03-20,Financial Sector Reform: Building a Banking System for a Global Economy,-0.5072940658761785,-0.5023399591445923,0.0,1.0,0.0,63.0,negative
+644,2000-03-13,THE PHILIPPINES: CONSOLIDATING ECONOMIC GROWTH,-0.516689833425048,-0.509175181388855,0.0,1.0,0.0,72.0,negative
+645,2000-02-17,Fostering the Proper Environment in Developing the Philippine Capital Market,-0.5232047302158256,-0.5189013481140137,0.0,1.0,0.0,71.0,negative
+646,2000-02-14,PHILIPPINE BANKS: THE LANDSCAPE BEYOND 2000,-0.5140330688944003,-0.5072187185287476,0.0,1.0,0.0,67.0,negative
+647,2000-01-27,THE PHILIPPINES: GEARING UP FOR HIGHER GROWTH,-0.5286212915170517,-0.5264862179756165,0.0,1.0,0.0,62.0,negative
+648,2000-01-19,THE FINANCIAL EXECUTIVE: IN PURSUIT OF EXCELLENCE IN A GLOBAL SETTING FROM THE POINT OF VIEW OF A CENTRAL BANKER,-0.523742082295062,-0.5053153038024902,0.0,1.0,0.0,41.0,negative
+649,2000-01-18,BSP Policy Thrusts for the New Millenium,-0.5223065554880383,-0.5155907869338989,0.0,1.0,0.0,69.0,negative
+650,2000-01-13,Building the Infrastructure for Effective Governance in the Banking System,-0.5071613396996251,-0.49812591075897217,0.0,1.0,0.0,85.0,negative
+651,1999-12-08,Keynote Address,-0.5085084414676858,-0.506584644317627,0.0,1.0,0.0,86.0,negative
+652,1999-12-07,Keynote Address - Euromoney,-0.5175875034772621,-0.5130759477615356,0.0,1.0,0.0,87.0,negative
+653,1999-12-06,Monetary and Fiscal Policy: Looking Ahead,-0.5307505308576325,-0.5255243182182312,0.0,1.0,0.0,107.0,negative
+654,1999-11-22,THE PHILIPPINES: ECONOMIC RECOVERY WITH A STRONGER BANKING SYSTEM,-0.5241371917836432,-0.5145549774169922,0.0,1.0,0.0,112.0,negative
+655,1999-11-19,The Bangko Sentral and the International Capital Market,-0.5267052707267179,-0.529245913028717,0.0,1.0,0.0,24.0,negative
+656,1999-11-18,Banking Reform and the Role of the Thrift Banking Industry,-0.5102125615094273,-0.5060531497001648,0.0,1.0,0.0,65.0,negative
+657,1999-11-13,Commitment to Banking Reforms: A Pillar of Asian Recovery,-0.5262591686815703,-0.5109742879867554,0.0,1.0,0.0,53.0,negative
+658,1999-11-02,The Bangko Sentral and the Banking System,-0.5087517864146969,-0.5055419206619263,0.0,1.0,0.0,46.0,negative
+659,1999-10-28,The BSP's Short-and Medium-Term Plans,-0.5195892225084744,-0.5153875350952148,0.0,1.0,0.0,63.0,negative
+660,1999-10-27,REFLECTIONS ON MONETARY AND BANKING POLICIES IN THE PHILIPPINES,-0.5023745140526986,-0.5004606246948242,0.0,1.0,0.0,61.0,negative
+661,1999-10-20,Promoting Monetary and Financial Stability in Asia,-0.5111900942106968,-0.5047289729118347,0.0,1.0,0.0,141.0,negative
+662,1999-08-17,The Philippine Economy: Turning the Corner,-0.553601535422317,-0.5520553588867188,0.0,1.0,0.0,14.0,negative
+663,1999-07-20,Continuity and Focus: Pathways to Sustained Growth,-0.5360814539681298,-0.5330736637115479,0.0,1.0,0.0,140.0,negative
+664,1999-05-31,IS THE WORST REALLY OVER?,-0.5246230589323103,-0.5130868554115295,0.0,1.0,0.0,87.0,negative
+665,1999-05-14,Towards a Sound Financial System: The Philippine Experience,-0.5050781946187172,-0.4934425354003906,0.0,1.0,0.0,74.0,negative
+666,1999-01-07,Out of the Asian Crisis,-0.5146758089679924,-0.508100152015686,0.0,1.0,0.0,94.0,negative
+667,1998-11-11,THE PHILIPPINES: CAPITALIZING ON SUSTAINED FINANCIAL STABILITY,-0.5109921067130782,-0.5053349733352661,0.0,1.0,0.0,73.0,negative
+668,1998-07-03,BSP ON ITS 5TH YEAR ANNIVERSARY: MANAGING THE CURRENCY CRISIS AS WE PREPARE FOR THE NEXT MILLENNIUM,-0.52596770611093,-0.516223132610321,0.0,1.0,0.0,50.0,negative
+669,1998-05-28,ON WITH THE ECONOMIC RECOVERY...CAREFULLY,-0.5119759672589418,-0.5122894048690796,0.0,1.0,0.0,70.0,negative
+670,1998-05-22,An Update on Recent Economic Developments,-0.5135008062465884,-0.5110915899276733,0.0,1.0,0.0,67.0,negative
+671,1998-04-07,The Philippines: From Crisis to Recovery,-0.5102126562616087,-0.5018938183784485,0.0,1.0,0.0,59.0,negative
+672,1998-03-10,Strategic Issues in Managing Capital Flows: The Experience of the Philippines,-0.5030921822635336,-0.4978313744068146,0.0,1.0,0.0,84.0,negative
